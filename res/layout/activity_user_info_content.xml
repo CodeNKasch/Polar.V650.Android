@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Space android:id="@id/title_space" android:layout_width="fill_parent" android:layout_height="@dimen/infobar_height" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <fi.polar.mclaren.ui.VerticalScrollLayout android:id="@id/verticalscroll" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/backbutton" android:layout_below="@id/title_space">
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/user_info_sex" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/user_info_sex_title" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/user_info_height" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/user_info_height_title" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/user_info_weight" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/user_info_weight_title" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/user_info_date_of_birth" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/user_info_date_of_birth_title" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/user_info_max_hr" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/user_info_max_hr_title" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/user_info_resting_hr" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/user_info_resting_hr_title" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/user_info_max_vo2" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/user_info_max_vo2_title" />
+    </fi.polar.mclaren.ui.VerticalScrollLayout>
+    <fi.polar.mclaren.ui.BottomBar android:id="@id/backbutton" android:layout_width="fill_parent" android:layout_height="@dimen/navibar_height" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+</RelativeLayout>

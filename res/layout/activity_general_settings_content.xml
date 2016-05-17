@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Space android:id="@id/title_space" android:layout_width="fill_parent" android:layout_height="@dimen/infobar_height" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <fi.polar.mclaren.ui.VerticalScrollLayout android:id="@id/verticalscroll" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/backbutton" android:layout_below="@id/title_space">
+        <fi.polar.mclaren.ui.SingleRowListItem android:id="@id/general_settings_show_pairing" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text="@string/settings_pairing" />
+        <fi.polar.mclaren.ui.SingleRowListItem android:id="@id/settings_show_mapsettings" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text="@string/settings_map_settings" />
+        <fi.polar.mclaren.ui.TwoRowCheckBoxItem android:id="@id/settings_general_use_gps_time" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/settings_use_gps_time" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/settings_general_time" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/settings_time" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/settings_general_date" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/settings_date" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/settings_general_language" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/settings_language" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/settings_general_units" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/settings_units" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/settings_security_passwd" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/settings_security_password" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/device_settings_front_led" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/device_settings_front_led" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/device_settings_back_light" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/device_settings_back_light" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/device_settings_auto_power_off" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/device_settings_auto_power_off" />
+        <fi.polar.mclaren.ui.SingleRowListItem android:id="@id/general_settings_show_about" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text="@string/settings_about_device" />
+    </fi.polar.mclaren.ui.VerticalScrollLayout>
+    <fi.polar.mclaren.ui.BottomBar android:id="@id/backbutton" android:layout_width="fill_parent" android:layout_height="@dimen/navibar_height" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+</RelativeLayout>

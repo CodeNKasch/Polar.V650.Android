@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="@dimen/fourbuttonselector_width" android:layout_height="@dimen/fourbuttonselector_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <RelativeLayout android:id="@id/selector_button1" android:background="@drawable/selector_button" android:layout_width="@dimen/fourbuttonselector_button_width" android:layout_height="@dimen/fourbuttonselector_button_height">
+            <TextView android:textSize="@dimen/fourbuttonselector_text_size" android:textColor="@drawable/selector_button_text_color" android:gravity="center_vertical" android:id="@id/selector_button1text" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/fourbuttonselector_left_margin" android:layout_marginBottom="@dimen/fourbuttonselector_text_bottom_margin" android:layout_centerVertical="true" style="@style/FontStyle.SelectorItem" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/selector_button2" android:background="@drawable/selector_button" android:layout_width="@dimen/fourbuttonselector_button_width" android:layout_height="@dimen/fourbuttonselector_button_height">
+            <TextView android:textSize="@dimen/fourbuttonselector_text_size" android:textColor="@drawable/selector_button_text_color" android:gravity="center_vertical" android:id="@id/selector_button2text" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/fourbuttonselector_left_margin" android:layout_marginBottom="@dimen/fourbuttonselector_text_bottom_margin" android:layout_centerVertical="true" style="@style/FontStyle.SelectorItem" />
+        </RelativeLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <RelativeLayout android:id="@id/selector_button3" android:background="@drawable/selector_button" android:layout_width="@dimen/fourbuttonselector_button_width" android:layout_height="@dimen/fourbuttonselector_button_height">
+            <TextView android:textSize="@dimen/fourbuttonselector_text_size" android:textColor="@drawable/selector_button_text_color" android:gravity="center_vertical" android:id="@id/selector_button3text" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/fourbuttonselector_left_margin" android:layout_marginBottom="@dimen/fourbuttonselector_text_bottom_margin" android:layout_centerVertical="true" style="@style/FontStyle.SelectorItem" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/selector_button4" android:background="@drawable/selector_button" android:layout_width="@dimen/fourbuttonselector_button_width" android:layout_height="@dimen/fourbuttonselector_button_height">
+            <TextView android:textSize="@dimen/fourbuttonselector_text_size" android:textColor="@drawable/selector_button_text_color" android:gravity="center_vertical" android:id="@id/selector_button4text" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/fourbuttonselector_left_margin" android:layout_marginBottom="@dimen/fourbuttonselector_text_bottom_margin" android:layout_centerVertical="true" style="@style/FontStyle.SelectorItem" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Space android:id="@id/top_space" android:layout_width="fill_parent" android:layout_height="@dimen/infobar_height" />
+    <LinearLayout android:orientation="vertical" android:id="@id/include1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/bottom_bar" android:layout_below="@id/top_space">
+        <Space android:id="@id/extra_padding" android:layout_width="fill_parent" android:layout_height="@dimen/backlight_widget_items_margint_top" />
+        <RadioGroup android:orientation="vertical" android:id="@id/backlight_radio_group" android:layout_width="fill_parent" android:layout_height="@dimen/backlight_radio_group_height" android:layout_marginLeft="@dimen/widget_text_margin">
+            <RadioButton android:id="@id/radio_normal" android:layout_width="wrap_content" android:layout_height="@dimen/backlight_radio_button_height" android:button="@null" android:text="@string/backlight_normal" android:drawableLeft="@drawable/radiobutton_image" style="@style/FontStyle.RadioButtonText" />
+            <RadioButton android:id="@id/radio_always_on" android:layout_width="wrap_content" android:layout_height="@dimen/backlight_radio_button_height" android:button="@null" android:text="@string/backlight_always_on" android:drawableLeft="@drawable/radiobutton_image" style="@style/FontStyle.RadioButtonText" />
+            <RadioButton android:id="@id/radio_automatic" android:layout_width="wrap_content" android:layout_height="@dimen/backlight_radio_button_height" android:button="@null" android:text="@string/backlight_automatic" android:drawableLeft="@drawable/radiobutton_image" style="@style/FontStyle.RadioButtonText" />
+        </RadioGroup>
+        <fi.polar.mclaren.ui.CustomSlider android:layout_gravity="center_horizontal" android:id="@id/auto_slider" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/backlight_activity_slider_top_margin" app:title="@string/backlight_auto_treshold" app:left_image="@drawable/graf_slider_automaticlight_dark" app:right_image="@drawable/graf_slider_automaticlight_bright" app:slider_steps="19" />
+    </LinearLayout>
+    <fi.polar.mclaren.ui.BottomBar android:id="@id/bottom_bar" android:layout_width="fill_parent" android:layout_height="@dimen/navibar_height" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+</RelativeLayout>

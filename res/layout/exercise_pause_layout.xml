@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/paused_bg_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="@dimen/paused_text_size" android:textColor="@color/paused_text_color" android:gravity="center" android:id="@id/paused_text" android:background="@color/paused_bg_color" android:layout_width="fill_parent" android:layout_height="@dimen/exercise_item_one_row_height" android:text="@string/paused_pause" style="@style/FontStyle" />
+    <TextView android:textSize="@dimen/paused_duration_text_size" android:textColor="@color/paused_text_color" android:gravity="center" android:id="@id/paused_duration" android:background="@color/paused_bg_color" android:layout_width="fill_parent" android:layout_height="@dimen/exercise_item_one_row_height" style="@style/FontStyle" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/exercise_item_one_row_height">
+        <fi.polar.mclaren.ui.ValueBox android:id="@id/paused_distance" android:background="@color/paused_bg_color" android:layout_width="@dimen/exercise_item_one_col_width" android:layout_height="fill_parent" app:unitSize="@dimen/exercise_item_unit_size" app:valueColor="@color/paused_text_color" app:valueSize="@dimen/exercise_value_size_1_8" app:alignment="center" />
+        <fi.polar.mclaren.ui.exercise.HrWidget android:id="@id/paused_hr" android:layout_width="@dimen/exercise_item_one_col_width" android:layout_height="fill_parent" app:background="@color/paused_bg_color" app:titleColor="@color/paused_bg_color" app:unitColor="@color/paused_text_color" app:value="--" app:valueColor="@color/paused_text_color" app:titleAlignment="left" />
+    </LinearLayout>
+    <View android:background="@color/paused_bg_color" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textSize="@dimen/paused_button_size" android:textColor="#ffffffff" android:id="@id/pause_stop_button" android:background="@drawable/continue_stop" android:layout_width="@dimen/paused_continue_button_width" android:layout_height="@dimen/paused_continue_button_height" android:text="@string/button_stop" style="@style/FontStyle" />
+        <Button android:textSize="@dimen/paused_button_size" android:textColor="#ff000000" android:id="@id/pause_continue_button" android:background="@drawable/continue_continue" android:layout_width="@dimen/paused_continue_button_width" android:layout_height="@dimen/paused_continue_button_height" android:text="@string/button_continue" style="@style/FontStyle" />
+    </LinearLayout>
+</LinearLayout>

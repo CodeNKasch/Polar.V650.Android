@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/item_holder" android:paddingTop="@dimen/infobar_height" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewFlipper android:id="@id/exercise_flipper" android:paddingTop="@dimen/infobar_height" android:paddingBottom="@dimen/exercise_flipper_padding_bottom" android:layout_width="fill_parent" android:layout_height="fill_parent" android:flipInterval="5000" android:autoStart="false" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/navi_pageindicator" android:background="@drawable/indicatorarea_exercise_color" android:layout_width="fill_parent" android:layout_height="@dimen/exercise_flipper_padding_bottom" android:layout_alignParentBottom="true" />
+</RelativeLayout>

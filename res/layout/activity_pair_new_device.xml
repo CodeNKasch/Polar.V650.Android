@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/content_include" android:background="@drawable/bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Space android:id="@id/top_space" android:layout_width="fill_parent" android:layout_height="@dimen/infobar_height" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <ViewFlipper android:id="@id/scanning_flipper" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/backbutton" android:layout_below="@id/top_space">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="252.0dip">
+            <TextView android:textSize="@dimen/default_listitem_text_size" android:textColor="@color/single_row_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="20.0dip" android:text="@string/pairing_device_progress" style="@style/FontStyle" />
+            <ImageView android:id="@id/spinner" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:src="@drawable/iso_spinneri" android:contentDescription="@string/pairing_device_progress" />
+        </LinearLayout>
+    </ViewFlipper>
+    <fi.polar.mclaren.ui.BottomBar android:id="@id/backbutton" android:layout_width="fill_parent" android:layout_height="@dimen/navibar_height" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+</RelativeLayout>

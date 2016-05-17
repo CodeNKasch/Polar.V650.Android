@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Space android:id="@id/top_space" android:layout_width="fill_parent" android:layout_height="@dimen/infobar_height" android:layout_alignParentTop="true" />
+    <fi.polar.mclaren.ui.FourButtonSelector android:id="@id/profile_selection_area" android:layout_width="@dimen/fourbuttonselector_width" android:layout_height="@dimen/fourbuttonselector_height" android:layout_below="@id/top_space" android:layout_alignParentLeft="true" app:text1="@string/profile_road" app:text2="@string/profile_mtb" app:text3="@string/profile_indoor" app:text4="@string/profile_other" />
+    <View android:id="@id/separator_line" android:background="@drawable/profile_middle_bar" android:layout_width="fill_parent" android:layout_height="9.0dip" android:layout_below="@id/profile_selection_area" />
+    <fi.polar.mclaren.ui.FourButtonSelector android:id="@id/bike_selection_area" android:layout_width="@dimen/fourbuttonselector_width" android:layout_height="@dimen/fourbuttonselector_height" android:layout_below="@id/separator_line" android:layout_alignParentLeft="true" app:text1="@string/bike1" app:text2="@string/bike2" app:text3="@string/bike3" app:text4="@string/bike4" />
+    <fi.polar.mclaren.ui.BottomBar android:id="@id/backbutton" android:layout_width="fill_parent" android:layout_height="@dimen/navibar_height" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" android:onClick="backClicked" />
+</RelativeLayout>

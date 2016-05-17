@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="mclaren_use_final_product">false</bool>
+    <bool name="usebold_in_text">true</bool>
+    <bool name="use_search_sensor_functionality">true</bool>
+    <bool name="use_testing_elements">false</bool>
+</resources>

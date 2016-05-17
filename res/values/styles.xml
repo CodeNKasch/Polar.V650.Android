@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FontStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textScaleX">@dimen/text_horizontal_scale</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="FontStyle.Firstline" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/default_listitem_text1_size</item>
+        <item name="android:textColor">@color/list_item_top_text_color</item>
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:textScaleX">@dimen/text_horizontal_no_scale</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="FontStyle.Secondline" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/default_listitem_text2_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/list_item_text_colors</item>
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="FontStyle.AboutText" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/about_view_text_size</item>
+        <item name="android:textColor">@color/about_view_text_color</item>
+    </style>
+    <style name="FontStyle.AboutTitle" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/about_view_title_size</item>
+        <item name="android:textColor">@color/about_view_title_color</item>
+    </style>
+    <style name="FontStyle.AutoLapAutoPauseEnabledText" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/autolapautopause_treshold_text_size</item>
+        <item name="android:textColor">@color/list_item_text_colors</item>
+    </style>
+    <style name="FontStyle.BatteryNotification" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/batterynotification_text_size</item>
+        <item name="android:textColor">@color/batterynotification_text_color</item>
+    </style>
+    <style name="FontStyle.BenefitText" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/session_history_benefit_text_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:singleLine">false</item>
+    </style>
+    <style name="FontStyle.BenefitTitle" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/session_history_benefit_title_size</item>
+    </style>
+    <style name="FontStyle.BleBatteryNotification" parent="@style/FontStyle">
+        <item name="android:textColor">@color/batterynotification_text_color</item>
+    </style>
+    <style name="FontStyle.BleBatteryNotification.Number" parent="@style/FontStyle.BleBatteryNotification">
+        <item name="android:textSize">@dimen/blebatterynotification_number_size</item>
+    </style>
+    <style name="FontStyle.BleBatteryNotification.Text" parent="@style/FontStyle.BleBatteryNotification">
+        <item name="android:textSize">@dimen/blebatterynotification_text_size</item>
+    </style>
+    <style name="FontStyle.CustomSliderTitle" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/default_listitem_text_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/single_row_text_color</item>
+    </style>
+    <style name="FontStyle.CustomSliderTitle.FrontLedWidget" parent="@style/FontStyle.CustomSliderTitle" />
+    <style name="FontStyle.DateDigit" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/value_text_size</item>
+        <item name="android:textColor">@color/date_text_color_selector</item>
+    </style>
+    <style name="FontStyle.DialogTextStyle" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/dialog_default_text_size</item>
+        <item name="android:textColor">@color/dialog_text_default_color</item>
+    </style>
+    <style name="FontStyle.DialogTextStyle.DeleteMap" parent="@style/FontStyle.DialogTextStyle">
+        <item name="android:textSize">@dimen/map_delete_dialog_default_text_size</item>
+    </style>
+    <style name="FontStyle.DialogTitleStyle" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/dialog_default_text_size</item>
+        <item name="android:textColor">@color/dialog_text_default_color</item>
+    </style>
+    <style name="FontStyle.LRBalanceTitle" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/value_box_title_size</item>
+        <item name="android:textColor">@color/history_default_text_color</item>
+    </style>
+    <style name="FontStyle.LapNotificationTitle" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/exercise_lap_notification_title_size</item>
+        <item name="android:textColor">@color/lap_notification_title_color</item>
+    </style>
+    <style name="FontStyle.ListItem" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/default_listitem_text_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@drawable/selector_button_text_color</item>
+    </style>
+    <style name="FontStyle.MainWidgetBike" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/main_widget_bike_name_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/mainwidget_text_color_selector</item>
+    </style>
+    <style name="FontStyle.MainWidgetTitle" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/main_widget_title_size</item>
+        <item name="android:textColor">@color/mainwidget_text_color_selector</item>
+    </style>
+    <style name="FontStyle.NoScanningItemsText" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/scanning_no_devices_found_text_size</item>
+        <item name="android:textColor">@color/settings_default_text_color</item>
+    </style>
+    <style name="FontStyle.NoSessionsText" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/history_no_sessions_text_size</item>
+        <item name="android:textColor">@color/history_default_text_color</item>
+    </style>
+    <style name="FontStyle.RadioButtonText" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/default_listitem_text_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/settings_default_text_color</item>
+        <item name="android:drawablePadding">@dimen/radiobutton_text_padding</item>
+    </style>
+    <style name="FontStyle.SelectorItem" parent="@style/FontStyle">
+        <item name="android:singleLine">false</item>
+        <item name="android:lineSpacingExtra">@dimen/fourbuttonselector_lineSpacing_extra</item>
+    </style>
+    <style name="FontStyle.SingleRow" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/default_listitem_text_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/list_item_text_colors</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="FontStyle.SingleRowCheckboxText" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/default_listitem_text_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:singleLine">false</item>
+    </style>
+    <style name="FontStyle.TextNotification" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/textnotification_text_size</item>
+        <item name="android:textColor">@color/textnotification_text_color</item>
+    </style>
+    <style name="FontStyle.TextNotification.SyncNotification" parent="@style/FontStyle.TextNotification">
+        <item name="android:textSize">@dimen/syncnotification_text_size</item>
+    </style>
+    <style name="FontStyle.TitleBar" parent="@style/FontStyle">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="FontStyle.TitleBar.Clock" parent="@style/FontStyle.TitleBar">
+        <item name="android:textSize">@dimen/infobar_clock_size</item>
+    </style>
+    <style name="FontStyle.TitleBar.Title" parent="@style/FontStyle.TitleBar">
+        <item name="android:textSize">@dimen/infobar_title_size</item>
+    </style>
+    <style name="FontStyle.ZoneBarText" parent="@style/FontStyle">
+        <item name="android:textColor">@color/zone_bar_text_color</item>
+    </style>
+    <style name="FontStyle.ZoneLimitText" parent="@style/FontStyle">
+        <item name="android:textSize">@dimen/limit_editor_title_size</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/limit_editor_value_color</item>
+    </style>
+    <style name="TransparentProgressDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="notification_animations">
+        <item name="android:windowEnterAnimation">@animator/slide_in_top</item>
+        <item name="android:windowExitAnimation">@animator/slide_out_top</item>
+    </style>
+    <style name="quickmenu_animations">
+        <item name="android:windowEnterAnimation">@animator/slide_in_left</item>
+        <item name="android:windowExitAnimation">@animator/slide_out_left</item>
+    </style>
+</resources>

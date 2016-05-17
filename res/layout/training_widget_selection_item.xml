@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/list_item_selector" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center_vertical" android:id="@id/text" android:layout_width="wrap_content" android:layout_height="@dimen/selection_list_element_height" android:layout_marginLeft="@dimen/selection_adapter_item_text_margin_left" android:layout_alignParentLeft="true" android:layout_centerVertical="true" style="@style/FontStyle.ListItem" />
+    <View android:id="@id/image" android:layout_width="@dimen/training_view_graphical_icon_width" android:layout_height="@dimen/training_view_graphical_icon_height" android:layout_marginRight="@dimen/training_view_graphical_item_right_margin" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+</RelativeLayout>

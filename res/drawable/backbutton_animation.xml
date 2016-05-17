@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:visible="true" android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="33" android:drawable="@drawable/back_btn30001" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30002" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30003" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30004" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30005" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30006" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30007" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30008" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30009" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30010" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30011" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30012" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30013" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30014" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30015" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30016" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30017" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30018" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30019" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30020" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30021" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30022" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30023" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30024" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30025" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30026" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30027" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30028" />
+    <item android:duration="33" android:drawable="@drawable/back_btn30029" />
+    <item android:duration="1500" android:drawable="@drawable/back_btn30030" />
+</animation-list>

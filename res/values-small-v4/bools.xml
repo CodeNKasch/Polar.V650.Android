@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="mclaren_use_final_product">true</bool>
+</resources>

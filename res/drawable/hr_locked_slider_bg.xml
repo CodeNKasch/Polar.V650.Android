@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/fi.polar.mclaren">
+    <item android:drawable="@drawable/hr_zone1234_lock_alert" app:state_alertzone1234="true" />
+    <item android:drawable="@drawable/hr_zone5_lock_alert" app:state_alertzone5="true" />
+    <item android:drawable="@drawable/hr_zone12345_lock_heart_bg" />
+</selector>

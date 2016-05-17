@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Space android:id="@id/top_space" android:layout_width="fill_parent" android:layout_height="@dimen/infobar_height" />
+    <LinearLayout android:orientation="vertical" android:id="@id/include1" android:background="@null" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/bottom_bar" android:layout_below="@id/top_space">
+        <Space android:id="@id/extra_padding" android:layout_width="fill_parent" android:layout_height="@dimen/front_led_widget_items_margin_top" />
+        <RadioGroup android:orientation="vertical" android:id="@id/front_led_radio_group" android:layout_width="fill_parent" android:layout_height="@dimen/front_led_radio_group_height" android:layout_marginLeft="@dimen/widget_text_margin">
+            <RadioButton android:id="@id/radio_manual" android:layout_width="wrap_content" android:layout_height="@dimen/front_led_radio_button_height" android:button="@null" android:text="@string/front_led_manual" android:drawableLeft="@drawable/radiobutton_image" style="@style/FontStyle.RadioButtonText" />
+            <RadioButton android:id="@id/radio_automatic" android:layout_width="wrap_content" android:layout_height="@dimen/front_led_radio_button_height" android:button="@null" android:text="@string/front_led_automatic" android:drawableLeft="@drawable/radiobutton_image" style="@style/FontStyle.RadioButtonText" />
+        </RadioGroup>
+        <Space android:id="@id/extra_padding_2" android:layout_width="fill_parent" android:layout_height="@dimen/front_led_widget_items_margin_top" />
+        <fi.polar.mclaren.ui.CustomSlider android:layout_gravity="center_horizontal" android:id="@id/auto_slider" android:layout_width="wrap_content" android:layout_height="wrap_content" app:title="@string/front_led_auto_treshold" app:left_image="@drawable/graf_slider_automaticlight_dark" app:right_image="@drawable/graf_slider_automaticlight_bright" app:slider_steps="19" />
+        <fi.polar.mclaren.ui.CustomSlider android:layout_gravity="center_horizontal" android:id="@id/blink_slider" android:layout_width="wrap_content" android:layout_height="wrap_content" app:title="@string/front_led_blink_rate" app:left_image="@drawable/graf_slider_blinking_rate_slow" app:right_image="@drawable/graf_slider_blinking_rate_fast" app:slider_steps="19" />
+    </LinearLayout>
+    <fi.polar.mclaren.ui.BottomBar android:id="@id/bottom_bar" android:layout_width="fill_parent" android:layout_height="@dimen/navibar_height" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+</RelativeLayout>

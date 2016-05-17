@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/fi.polar.mclaren">
+    <item android:drawable="@drawable/hr_1_1_zonelock_1" app:state_zone1="true" />
+    <item android:drawable="@drawable/hr_1_1_zonelock_2" app:state_zone2="true" />
+    <item android:drawable="@drawable/hr_1_1_zonelock_3" app:state_zone3="true" />
+    <item android:drawable="@drawable/hr_1_1_zonelock_4" app:state_zone4="true" />
+    <item android:drawable="@drawable/hr_1_1_zonelock_5" app:state_zone5="true" />
+</selector>

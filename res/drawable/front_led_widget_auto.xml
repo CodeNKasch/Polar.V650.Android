@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/fi.polar.mclaren">
+    <item android:drawable="@drawable/ic_light_indicators_on_gray3" app:state_auto="false" />
+    <item android:drawable="@drawable/ic_light_indicators_on_green3" app:state_auto="true" />
+</selector>

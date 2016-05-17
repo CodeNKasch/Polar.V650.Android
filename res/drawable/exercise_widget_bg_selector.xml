@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/fi.polar.mclaren">
+    <item android:drawable="@drawable/exe_1_1" app:isclickable="false" app:size1_1="true" />
+    <item android:drawable="@drawable/exe_1_2" app:isclickable="false" app:size1_2="true" />
+    <item android:drawable="@drawable/exe_1_4" app:isclickable="false" app:size1_4="true" />
+    <item android:drawable="@drawable/exe_1_8" app:isclickable="false" app:size1_8="true" />
+    <item android:drawable="@drawable/exe_1_1_nuoli" app:isclickable="true" app:size1_1="true" />
+    <item android:drawable="@drawable/exe_1_2_nuoli" app:isclickable="true" app:size1_2="true" />
+    <item android:drawable="@drawable/exe_1_4_nuoli" app:isclickable="true" app:size1_4="true" />
+    <item android:drawable="@drawable/exe_1_8_nuoli" app:isclickable="true" app:size1_8="true" />
+    <item android:drawable="@drawable/lap_1_1" app:size1_1="true" app:islap="true" />
+    <item android:drawable="@drawable/lap_1_2" app:size1_2="true" app:islap="true" />
+    <item android:drawable="@drawable/lap_1_4" app:size1_4="true" app:islap="true" />
+    <item android:drawable="@drawable/lap_1_8" app:size1_8="true" app:islap="true" />
+</selector>

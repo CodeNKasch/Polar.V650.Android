@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/zonebar_bg">
+        <shape>
+            <gradient android:startColor="#ff77d3e0" android:endColor="#ff589daa" android:angle="270.0" android:centerY="1.0" />
+        </shape>
+    </item>
+    <item android:id="@id/zonebar_fg">
+        <shape>
+            <gradient android:startColor="#ff77d3e0" android:endColor="#ff589daa" android:angle="270.0" android:centerY="1.0" />
+        </shape>
+    </item>
+</layer-list>

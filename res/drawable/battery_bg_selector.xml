@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/fi.polar.mclaren">
+    <item android:drawable="@drawable/battery_green" app:state_full="true" />
+    <item android:drawable="@drawable/battery_yellow" app:state_half="true" />
+    <item android:drawable="@drawable/battery_orange" app:state_low="true" />
+    <item android:drawable="@drawable/battery_red" app:state_verylow="true" />
+</selector>

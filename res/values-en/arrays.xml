@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feedback_texts">
+        <item>You need to train at least 10 minutes above 50% of your calculated maximum heart rate value to get the Training Benefit.</item>
+        <item>What a session! You improved your sprint speed and the nervous system of your muscles, which make you more efficient. This session also increased your resistance to fatigue.</item>
+        <item>What a session! You improved your sprint speed and the nervous system of your muscles, which make you more efficient.</item>
+        <item>What a session! You improved your speed and efficiency. This session also significantly developed your aerobic fitness and your ability to sustain high intensity effort for longer.</item>
+        <item>What a session! You significantly improved your aerobic fitness and your ability to sustain high intensity effort for longer. This session also developed your speed and efficiency.</item>
+        <item>Great pace in a long session! You improved your aerobic fitness, speed, and ability to sustain high intensity effort for longer. This session also increased your resistance to fatigue.</item>
+        <item>Great pace! You improved your aerobic fitness, speed, and ability to sustain high intensity effort for longer.</item>
+        <item>Good pace! You improved your ability to sustain high intensity effort for longer. This session also developed your aerobic fitness and the endurance of your muscles.</item>
+        <item>Good pace! You improved your aerobic fitness and the endurance of your muscles. This session also developed your ability to sustain high intensity effort for longer.</item>
+        <item>Excellent! This long session improved the endurance of your muscles and your aerobic fitness. It also increased your resistance to fatigue.</item>
+        <item>Excellent! You improved the endurance of your muscles and your aerobic fitness.</item>
+        <item>"Excellent! This long session improved the endurance of your muscles and your aerobic fitness. It also developed your basic endurance and your body's ability to burn fat during exercise."</item>
+        <item>"Excellent! You improved the endurance of your muscles and your aerobic fitness. This session also developed your basic endurance and your body's ability to burn fat during exercise."</item>
+        <item>"Great! This long session improved your basic endurance and your body's ability to burn fat during exercise. It also developed the endurance of your muscles and your aerobic fitness."</item>
+        <item>"Great! You improved your basic endurance and your body's ability to burn fat during exercise. This session also developed the endurance of your muscles and your aerobic fitness."</item>
+        <item>"Great! This long, low intensity session improved your basic endurance and your body's ability to burn fat during exercise."</item>
+        <item>"Well done! This low intensity session improved your basic endurance and your body's ability to burn fat during exercise."</item>
+        <item>Very nice session for your recovery. Light exercise like this allows your body to adapt to your training.</item>
+    </string-array>
+    <string-array name="feedback_titles">
+        <item></item>
+        <item>Maximum training+</item>
+        <item>Maximum training</item>
+        <item>Maximum &amp; Tempo training</item>
+        <item>Tempo &amp; Maximum training</item>
+        <item>Tempo training+</item>
+        <item>Tempo training</item>
+        <item>Tempo &amp; Steady state training</item>
+        <item>Steady state &amp; Tempo training</item>
+        <item>Steady state training+</item>
+        <item>Steady state training</item>
+        <item>Steady state &amp; Basic training, long</item>
+        <item>Steady state &amp; Basic training</item>
+        <item>Basic &amp; Steady state training, long</item>
+        <item>Basic &amp; Steady state training</item>
+        <item>Basic training, long</item>
+        <item>Basic training</item>
+        <item>Recovery training</item>
+    </string-array>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="units">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/fi.polar.mclaren">
+    <item android:drawable="@drawable/bike_road" app:road="true" />
+    <item android:drawable="@drawable/bike_mtb" app:mtb="true" />
+    <item android:drawable="@drawable/bike_indoor" app:indoor="true" />
+    <item android:drawable="@drawable/bike_other" app:other="true" />
+</selector>

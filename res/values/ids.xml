@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="SIZE_CLASS" />
+    <item type="id" name="averaged_10_sec_item" />
+    <item type="id" name="averaged_30_sec_item" />
+    <item type="id" name="averaged_3_sec_item" />
+    <item type="id" name="averaged_custom_sec_item" />
+    <item type="id" name="bike_and_sport_activity_bike" />
+    <item type="id" name="bike_and_sport_activity_sport" />
+    <item type="id" name="bike_widget_id" />
+    <item type="id" name="ble_sensor_note_number" />
+    <item type="id" name="bottom" />
+    <item type="id" name="bottombar_id" />
+    <item type="id" name="custom_dialog_bottom_child" />
+    <item type="id" name="custom_dialog_center_child" />
+    <item type="id" name="customize_sport_profile_check_power_zone_limits" />
+    <item type="id" name="customize_sport_profile_power_settings" />
+    <item type="id" name="customslider_left_image" />
+    <item type="id" name="customslider_rigth_image" />
+    <item type="id" name="customslider_slider" />
+    <item type="id" name="customslider_title" />
+    <item type="id" name="date_group1" />
+    <item type="id" name="date_group1_digit1" />
+    <item type="id" name="date_group1_digit2" />
+    <item type="id" name="date_group2" />
+    <item type="id" name="date_group2_digit1" />
+    <item type="id" name="date_group2_digit2" />
+    <item type="id" name="date_group3" />
+    <item type="id" name="date_group3_digit1" />
+    <item type="id" name="date_group3_digit2" />
+    <item type="id" name="date_group3_digit3" />
+    <item type="id" name="date_group3_digit4" />
+    <item type="id" name="datetopbar" />
+    <item type="id" name="debug_activity_read_from_file" />
+    <item type="id" name="debug_activity_repeat_reading" />
+    <item type="id" name="debug_activity_use_debug_route" />
+    <item type="id" name="debug_activity_use_debug_route_path" />
+    <item type="id" name="debug_activity_used_powersensors" />
+    <item type="id" name="dialog_bottom_bar_id" />
+    <item type="id" name="dialog_button_center" />
+    <item type="id" name="dialog_button_left" />
+    <item type="id" name="dialog_button_right" />
+    <item type="id" name="dialog_title_id" />
+    <item type="id" name="frontled_auto" />
+    <item type="id" name="frontled_blink" />
+    <item type="id" name="frontled_light" />
+    <item type="id" name="frontled_title" />
+    <item type="id" name="history_sessions_id" />
+    <item type="id" name="history_totals_id" />
+    <item type="id" name="history_widget_id" />
+    <item type="id" name="hr_limit_hi" />
+    <item type="id" name="hr_limit_lo" />
+    <item type="id" name="hr_locked_slider" />
+    <item type="id" name="hr_slider" />
+    <item type="id" name="hr_zone1" />
+    <item type="id" name="hr_zone2" />
+    <item type="id" name="hr_zone3" />
+    <item type="id" name="hr_zone4" />
+    <item type="id" name="hr_zone5" />
+    <item type="id" name="hr_zone_alert" />
+    <item type="id" name="hr_zone_locked_number" />
+    <item type="id" name="hr_zone_locked_text" />
+    <item type="id" name="hrzoneline" />
+    <item type="id" name="hrzones" />
+    <item type="id" name="infobar_batteryicon" />
+    <item type="id" name="infobar_batterystatus" />
+    <item type="id" name="infobar_clock" />
+    <item type="id" name="infobar_id" />
+    <item type="id" name="infobar_title" />
+    <item type="id" name="infodrawer_brake1_id" />
+    <item type="id" name="infodrawer_brake2_id" />
+    <item type="id" name="infodrawer_frontled_id" />
+    <item type="id" name="infodrawer_volume_slider_id" />
+    <item type="id" name="item1" />
+    <item type="id" name="item2" />
+    <item type="id" name="item3" />
+    <item type="id" name="item4" />
+    <item type="id" name="item5" />
+    <item type="id" name="item6" />
+    <item type="id" name="item7" />
+    <item type="id" name="item8" />
+    <item type="id" name="lap_notification_items" />
+    <item type="id" name="lap_notification_title" />
+    <item type="id" name="limit_editor_valuebox" />
+    <item type="id" name="limit_lower_limit" />
+    <item type="id" name="limit_upper_limit" />
+    <item type="id" name="main_widget_title_id" />
+    <item type="id" name="map_browsemap_view" />
+    <item type="id" name="map_layers_bike_routes_item" />
+    <item type="id" name="map_layers_topographic_item" />
+    <item type="id" name="map_selection_cancel" />
+    <item type="id" name="map_selection_download" />
+    <item type="id" name="map_settings_auto_update_item" />
+    <item type="id" name="map_settings_browse_offline_map" />
+    <item type="id" name="map_settings_map_date" />
+    <item type="id" name="map_settings_map_direction" />
+    <item type="id" name="map_settings_map_layers" />
+    <item type="id" name="map_settings_map_path" />
+    <item type="id" name="map_settings_select_map" />
+    <item type="id" name="map_settings_show_altitude_on_map" />
+    <item type="id" name="map_settings_show_cycling_route" />
+    <item type="id" name="navibar" />
+    <item type="id" name="num0" />
+    <item type="id" name="num1" />
+    <item type="id" name="num2" />
+    <item type="id" name="num3" />
+    <item type="id" name="num4" />
+    <item type="id" name="num5" />
+    <item type="id" name="num6" />
+    <item type="id" name="num7" />
+    <item type="id" name="num8" />
+    <item type="id" name="num9" />
+    <item type="id" name="num_left" />
+    <item type="id" name="num_right" />
+    <item type="id" name="objectID" />
+    <item type="id" name="power_settings_ftp" />
+    <item type="id" name="power_settings_power_averaging" />
+    <item type="id" name="profile_widget_id" />
+    <item type="id" name="quickmenu_calibrate" />
+    <item type="id" name="quickmenu_calibrate_power" />
+    <item type="id" name="quickmenu_lock_display" />
+    <item type="id" name="quickmenu_read_fast_data_from_file" />
+    <item type="id" name="quickmenu_record_barometer_and_nmea" />
+    <item type="id" name="quickmenu_record_fast_data" />
+    <item type="id" name="quickmenu_refresh_bt" />
+    <item type="id" name="quickmenu_skip_fake_gps_locations" />
+    <item type="id" name="quickmenu_testitem" />
+    <item type="id" name="quickmenu_turn_off" />
+    <item type="id" name="search_animation_id" />
+    <item type="id" name="search_button_id" />
+    <item type="id" name="sensorbar_id" />
+    <item type="id" name="session_alt_max" />
+    <item type="id" name="session_ascent" />
+    <item type="id" name="session_cad_avg" />
+    <item type="id" name="session_cad_max" />
+    <item type="id" name="session_descent" />
+    <item type="id" name="session_powerview_left_balance" />
+    <item type="id" name="session_powerview_lrbalance_title" />
+    <item type="id" name="session_powerview_pwr_avg" />
+    <item type="id" name="session_powerview_pwr_max" />
+    <item type="id" name="session_powerview_right_balance" />
+    <item type="id" name="session_powerview_wkg_avg" />
+    <item type="id" name="session_powerview_wkg_max" />
+    <item type="id" name="settings_debug" />
+    <item type="id" name="settings_developerdel" />
+    <item type="id" name="settings_power_view" />
+    <item type="id" name="settings_pts_test_activity" />
+    <item type="id" name="settings_show_bikes" />
+    <item type="id" name="settings_show_general" />
+    <item type="id" name="settings_show_mapsettings" />
+    <item type="id" name="settings_show_profiles" />
+    <item type="id" name="settings_show_userinfo" />
+    <item type="id" name="settings_widget_id" />
+    <item type="id" name="threshold_left_text" />
+    <item type="id" name="threshold_right_text" />
+    <item type="id" name="time_separator" />
+    <item type="id" name="top" />
+    <item type="id" name="top_element" />
+    <item type="id" name="topbar" />
+    <item type="id" name="training_view_layout1" />
+    <item type="id" name="training_view_layout10" />
+    <item type="id" name="training_view_layout2" />
+    <item type="id" name="training_view_layout3" />
+    <item type="id" name="training_view_layout4" />
+    <item type="id" name="training_view_layout5" />
+    <item type="id" name="training_view_layout6" />
+    <item type="id" name="training_view_layout7" />
+    <item type="id" name="training_view_layout8" />
+    <item type="id" name="training_view_layout9" />
+    <item type="id" name="two_row_checkbox_box" />
+    <item type="id" name="two_row_checkbox_text1" />
+    <item type="id" name="two_row_checkbox_text2" />
+    <item type="id" name="use_gps_time" />
+    <item type="id" name="value" />
+    <item type="id" name="view_flipper_id" />
+    <item type="id" name="zoom_icon" />
+    <item type="id" name="zoom_minus" />
+    <item type="id" name="zoom_plus" />
+    <item type="id" name="content_include">false</item>
+    <item type="id" name="top_space">false</item>
+    <item type="id" name="include1">false</item>
+    <item type="id" name="bottom_bar">false</item>
+    <item type="id" name="extra_padding">false</item>
+    <item type="id" name="backlight_radio_group">false</item>
+    <item type="id" name="radio_normal">false</item>
+    <item type="id" name="radio_always_on">false</item>
+    <item type="id" name="radio_automatic">false</item>
+    <item type="id" name="auto_slider">false</item>
+    <item type="id" name="settings_layout">false</item>
+    <item type="id" name="title_space">false</item>
+    <item type="id" name="verticalscroll">false</item>
+    <item type="id" name="backbutton">false</item>
+    <item type="id" name="customize_sport_profile_show_training_views">false</item>
+    <item type="id" name="customize_sport_profile_hr_view">false</item>
+    <item type="id" name="customize_sport_profile_speed">false</item>
+    <item type="id" name="customize_sport_profile_sounds">false</item>
+    <item type="id" name="customize_sport_profile_gps">false</item>
+    <item type="id" name="customize_sport_profile_auto_pause">false</item>
+    <item type="id" name="customize_sport_profile_auto_lap">false</item>
+    <item type="id" name="customize_sport_profile_front_button_lap">false</item>
+    <item type="id" name="customize_sport_profile_check_zone_limits">false</item>
+    <item type="id" name="buttonhome">false</item>
+    <item type="id" name="buttonpower">false</item>
+    <item type="id" name="seekBar1">false</item>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="item_holder">false</item>
+    <item type="id" name="exercise_flipper">false</item>
+    <item type="id" name="navi_pageindicator">false</item>
+    <item type="id" name="front_led_radio_group">false</item>
+    <item type="id" name="radio_manual">false</item>
+    <item type="id" name="extra_padding_2">false</item>
+    <item type="id" name="blink_slider">false</item>
+    <item type="id" name="general_settings_show_pairing">false</item>
+    <item type="id" name="settings_general_use_gps_time">false</item>
+    <item type="id" name="settings_general_time">false</item>
+    <item type="id" name="settings_general_date">false</item>
+    <item type="id" name="settings_general_language">false</item>
+    <item type="id" name="settings_general_units">false</item>
+    <item type="id" name="settings_security_passwd">false</item>
+    <item type="id" name="device_settings_front_led">false</item>
+    <item type="id" name="device_settings_back_light">false</item>
+    <item type="id" name="device_settings_auto_power_off">false</item>
+    <item type="id" name="general_settings_show_about">false</item>
+    <item type="id" name="totals_toplayout">false</item>
+    <item type="id" name="totals_line1">false</item>
+    <item type="id" name="totals_startdate">false</item>
+    <item type="id" name="totals_enddate">false</item>
+    <item type="id" name="totals_line2">false</item>
+    <item type="id" name="totals_line3">false</item>
+    <item type="id" name="totals_line4">false</item>
+    <item type="id" name="totals_element_bike1">false</item>
+    <item type="id" name="totals_element_bike2">false</item>
+    <item type="id" name="totals_element_bike3">false</item>
+    <item type="id" name="totals_element_bike4">false</item>
+    <item type="id" name="scanning_flipper">false</item>
+    <item type="id" name="spinner">false</item>
+    <item type="id" name="profile_selection_area">false</item>
+    <item type="id" name="separator_line">false</item>
+    <item type="id" name="bike_selection_area">false</item>
+    <item type="id" name="user_info_sex">false</item>
+    <item type="id" name="user_info_height">false</item>
+    <item type="id" name="user_info_weight">false</item>
+    <item type="id" name="user_info_date_of_birth">false</item>
+    <item type="id" name="user_info_max_hr">false</item>
+    <item type="id" name="user_info_resting_hr">false</item>
+    <item type="id" name="user_info_max_vo2">false</item>
+    <item type="id" name="buttonhome_settings">false</item>
+    <item type="id" name="buttonpower_settings">false</item>
+    <item type="id" name="flipper">false</item>
+    <item type="id" name="settings_bottombar">false</item>
+    <item type="id" name="pinItem">false</item>
+    <item type="id" name="numpad">false</item>
+    <item type="id" name="paused_text">false</item>
+    <item type="id" name="paused_duration">false</item>
+    <item type="id" name="paused_distance">false</item>
+    <item type="id" name="paused_hr">false</item>
+    <item type="id" name="pause_stop_button">false</item>
+    <item type="id" name="pause_continue_button">false</item>
+    <item type="id" name="selector_button1">false</item>
+    <item type="id" name="selector_button1text">false</item>
+    <item type="id" name="selector_button2">false</item>
+    <item type="id" name="selector_button2text">false</item>
+    <item type="id" name="selector_button3">false</item>
+    <item type="id" name="selector_button3text">false</item>
+    <item type="id" name="selector_button4">false</item>
+    <item type="id" name="selector_button4text">false</item>
+    <item type="id" name="item_label1">false</item>
+    <item type="id" name="item_label2">false</item>
+    <item type="id" name="item_label3">false</item>
+    <item type="id" name="text1">false</item>
+    <item type="id" name="text2">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="session_lap_detail_element">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="zonebar_bg">false</item>
+    <item type="id" name="zonebar_fg">false</item>
+</resources>

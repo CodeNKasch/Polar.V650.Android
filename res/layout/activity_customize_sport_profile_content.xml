@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Space android:id="@id/title_space" android:layout_width="fill_parent" android:layout_height="@dimen/infobar_height" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <fi.polar.mclaren.ui.VerticalScrollLayout android:id="@id/verticalscroll" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/backbutton" android:layout_below="@id/title_space">
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/customize_sport_profile_show_training_views" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/settings_training_views" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/customize_sport_profile_hr_view" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/customize_sport_profile_hr_view_title" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/customize_sport_profile_speed" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/customize_sport_profile_speed_title" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/customize_sport_profile_sounds" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/customize_sport_profile_sounds_title" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/customize_sport_profile_gps" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/customize_sport_profile_gps_title" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/customize_sport_profile_auto_pause" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/customize_sport_profile_auto_pause_title" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/customize_sport_profile_auto_lap" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/customize_sport_profile_auto_lap_title" />
+        <fi.polar.mclaren.ui.TwoRowListItem android:id="@id/customize_sport_profile_front_button_lap" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text1="@string/customize_sport_profile_front_button_lap_title" />
+        <fi.polar.mclaren.ui.SingleRowListItem android:id="@id/customize_sport_profile_check_zone_limits" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text="@string/customize_sport_profile_check_zone_limits" />
+        <fi.polar.mclaren.ui.SingleRowListItem android:id="@id/customize_sport_profile_power_settings" android:layout_width="fill_parent" android:layout_height="@dimen/list_item_height_scrollable" app:text="@string/customize_sport_profile_power_settings" />
+    </fi.polar.mclaren.ui.VerticalScrollLayout>
+    <fi.polar.mclaren.ui.BottomBar android:id="@id/backbutton" android:layout_width="fill_parent" android:layout_height="@dimen/navibar_height" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/fi.polar.mclaren">
+    <item android:drawable="@drawable/list_item_56px" app:state_is_popup="false" />
+    <item android:state_enabled="true" android:state_pressed="true" android:drawable="@drawable/settings_list_item_hover" app:state_is_popup="true" />
+    <item android:state_enabled="true" android:drawable="@drawable/settings_list_item" app:state_is_popup="true" />
+    <item android:state_enabled="false" android:drawable="@drawable/list_item_56px" app:state_is_popup="true" />
+</selector>

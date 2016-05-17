@@ -1,0 +1,2197 @@
+Manifest-Version: 1.0
+Built-By: 1.3.0
+Created-By: Android Gradle 1.3.0
+
+Name: res/drawable-nodpi-v4/numpad_up_06.png
+SHA1-Digest: /Plh7yEHw3v93olHkhJDBB8+T6s=
+
+Name: res/drawable-nodpi-v4/hr_zone1234_lock_alert.png
+SHA1-Digest: NfF53D7Zs/VTgLAsEi5EQHhAhHc=
+
+Name: res/drawable-nodpi-v4/cad_30x30.png
+SHA1-Digest: uweYh8Hiwggi0untDsjSREUdDRU=
+
+Name: assets/renderthemes/symbols/soccer-borderless.svg
+SHA1-Digest: Xed/7q72ASN7NT9i7yHn3+mDNOY=
+
+Name: res/drawable-nodpi-v4/polkimet0007.png
+SHA1-Digest: KDH5kW49ZNyp39UXM7Mf7rMxU7M=
+
+Name: osmarender/patterns/wood-deciduous.png
+SHA1-Digest: BW9XTQpFid802UX5L0ikH1lNGvI=
+
+Name: osmarender/symbols/information.svg
+SHA1-Digest: 68KZvQY4qghvyrVdAsXmc4JqATg=
+
+Name: osmarender/symbols/fountain.svg
+SHA1-Digest: hMtI+6aaBpR0srcapJvqBHtgwcw=
+
+Name: res/drawable-nodpi-v4/settings_list_item_hover.png
+SHA1-Digest: 0RnCsmDHL+r6dXzcrKICV9g1Ccs=
+
+Name: res/drawable-nodpi-v4/back_btn30019.png
+SHA1-Digest: IUAbM+mx2gxNaKGFVAGmR4h5JYE=
+
+Name: assets/renderthemes/default.xml
+SHA1-Digest: Im8Lsj19aj8wvHd/rKxhfp/BlUM=
+
+Name: res/drawable-nodpi-v4/harj_1_2_nuoli.png
+SHA1-Digest: zT7rjuvGDON7t/v2GPXBDqu4xIc=
+
+Name: res/drawable-nodpi-v4/back_btn30010.png
+SHA1-Digest: SCYNCAw2qwQ6y+W/QjFkmiEjSD0=
+
+Name: res/drawable-nodpi-v4/graf_widget_half_240x140_link.png
+SHA1-Digest: wunxrCHklwpLETXjcJyki0Ne4h4=
+
+Name: res/drawable-nodpi-v4/back_btn30029.png
+SHA1-Digest: rFrs8DMWy3XRjn8gtfCCRGG00aU=
+
+Name: res/drawable-nodpi-v4/radio_button_on.png
+SHA1-Digest: KeCf19NBH/Wd333k14TWqb/uh1s=
+
+Name: assets/renderthemes/symbols/helipad.svg
+SHA1-Digest: ERWOeelYsZkZ/Fx+E176IRfYrIw=
+
+Name: res/layout/activity_general_settings_content.xml
+SHA1-Digest: hl8hxRgdoOiMQJt0Alsy+ILT0n8=
+
+Name: res/drawable-nodpi-v4/sync0051.png
+SHA1-Digest: 9c+qe5MftQ31/6LcH76PWV5WqQE=
+
+Name: res/drawable-nodpi-v4/numpad_up_10_back_02.png
+SHA1-Digest: zj5iYyVFzHXv6bEM7F1FjhAro10=
+
+Name: res/drawable-nodpi-v4/bike_road.png
+SHA1-Digest: lkp+9CggecUcQiEdUwG6l5Tc7dA=
+
+Name: res/drawable-nodpi-v4/sync0002.png
+SHA1-Digest: ar8ZGPoPo2WoGO3U7OUnJuj4gIg=
+
+Name: res/drawable-nodpi-v4/exe_1_1.png
+SHA1-Digest: k1MJf+Xg+t/0EEMub69F1OiRDYI=
+
+Name: osmarender/symbols/viewpoint.svg
+SHA1-Digest: PaoTZGtR46DyCvNfQNYmpoG7u6o=
+
+Name: res/drawable-nodpi-v4/infobar_bg.png
+SHA1-Digest: WKRrQcPjLcN9cYKzMA0uKIpg6kM=
+
+Name: res/drawable-nodpi-v4/graf_slider_blinking_rate_slow.png
+SHA1-Digest: N1rGgQWm99Ac6slQeWAraa9rURw=
+
+Name: assets/renderthemes/symbols/tree.svg
+SHA1-Digest: 7nhTXfRB38OPDe3lbbwZEDjUkBI=
+
+Name: res/drawable-nodpi-v4/maps_20.png
+SHA1-Digest: C6hhN78zhGrB3tddryzfDIQEG3o=
+
+Name: osmarender/symbols/tennis.svg
+SHA1-Digest: ht0peI0ZXsC0QUzF7+YMzmkFbhE=
+
+Name: res/drawable-nodpi-v4/power_zone4_bg_1_4_lock.png
+SHA1-Digest: ibxGDhOMwxFvZn3XaDyBPF4vNQg=
+
+Name: res/drawable-nodpi-v4/two_widget_tilet.png
+SHA1-Digest: l2lNdwAt9Mb1H90c82a+ns3RbG0=
+
+Name: res/drawable-nodpi-v4/sync.png
+SHA1-Digest: AvcOG9DQNcbOWnNBnm9RAtzGDjA=
+
+Name: assets/renderthemes/symbols/information.svg
+SHA1-Digest: 9u9nAar8gdhZY4uJ0jVD4IKzxQU=
+
+Name: res/drawable-nodpi-v4/polkimet0025.png
+SHA1-Digest: g7J5BvtjzOM+tu2MyY2yl2vT+iM=
+
+Name: res/layout-small-v4/activity_profile_selection.xml
+SHA1-Digest: LCSdf7j2LslYEoUT2CwAqUkTZY0=
+
+Name: res/drawable-nodpi-v4/sync0037.png
+SHA1-Digest: InbLi88u/QoTt23UGmoWwshr/nE=
+
+Name: res/drawable-nodpi-v4/graf_bg_popup_orig.png
+SHA1-Digest: IlZDAuUKUNiq1A1AmFkd0u4ACCQ=
+
+Name: res/animator/fade_in.xml
+SHA1-Digest: ik+vfqCFAtfz3vkXDAY/7Im/hpk=
+
+Name: res/drawable/infobar_bg_color_selector.xml
+SHA1-Digest: s/AaE/GjbzH3aFQ5Q+DtFeRnjjk=
+
+Name: assets/renderthemes/patterns/cemetery.png
+SHA1-Digest: KJdBRRneHZCz/UexNOPgdm4KjQY=
+
+Name: res/drawable-nodpi-v4/polkimet0047.png
+SHA1-Digest: vIJxmdSFdp1cIHaCNWuyzsijzIA=
+
+Name: assets/renderthemes/symbols/florist.svg
+SHA1-Digest: UUOm5CAGgl+iPgnsdZ3QmCmxMhA=
+
+Name: res/drawable-nodpi-v4/polkimet0004.png
+SHA1-Digest: tOqdeyQrvAPLBCMsnsfwZdhkUyo=
+
+Name: res/drawable-nodpi-v4/sync0056.png
+SHA1-Digest: 925XG6BuNnUUHZO4cEhyLsqFvTg=
+
+Name: res/drawable-nodpi-v4/lap_1_2.png
+SHA1-Digest: ka0z7PRCDGQwjIyMFNA3EYHzD9Y=
+
+Name: res/drawable/hr_line_quarter_locked_bg.xml
+SHA1-Digest: psq8IiTzSUuPunnGHZS6u89ssgM=
+
+Name: res/drawable-nodpi-v4/sync0014.png
+SHA1-Digest: UgF78XDrlbcAdn5D7qsCvwdDjxk=
+
+Name: res/layout/paired_devices_list_layout.xml
+SHA1-Digest: m6+LHGEZMoJ5K4k714KeCugeclc=
+
+Name: res/drawable-nodpi-v4/numpad_up_03.png
+SHA1-Digest: VXZmVw8bcNpR0t8SsFseawP5uNo=
+
+Name: assets/renderthemes/symbols/supermarket.svg
+SHA1-Digest: oCA0Mh904IW7LTMw830tyC1UiJY=
+
+Name: res/drawable-nodpi-v4/numpad_down_12_dot.png
+SHA1-Digest: fzrFfzb64Wh1qlEyWnZNu12jWYk=
+
+Name: osmarender/symbols/telephone.svg
+SHA1-Digest: 8Bu8aNaC1YiEdBiEm6N5hBVGTBw=
+
+Name: res/drawable-nodpi-v4/numpad_down_05.png
+SHA1-Digest: 6IjeFmi8GfqppdFqG6JqGmQJipY=
+
+Name: res/drawable-nodpi-v4/profile_middle_bar.png
+SHA1-Digest: mIQs0S1RZDCSW4yxCfErWjylkiE=
+
+Name: res/drawable-nodpi-v4/polkimet0067.png
+SHA1-Digest: vjlSt6WDXpWjAPeP+ol5DK9roL4=
+
+Name: res/drawable/custom_slider_selector.xml
+SHA1-Digest: zM7JYtovOYc8QNuzxenZ3+iwZXw=
+
+Name: assets/renderthemes/cycle_elevation.xml
+SHA1-Digest: H1LA+i0JqkfokuJoWsi3jO7Df/E=
+
+Name: res/drawable-nodpi-v4/speed_30x30_2.png
+SHA1-Digest: wWjFUc8aWoBtq9u6HSTLheV+tJ4=
+
+Name: assets/renderthemes/symbols/bank.svg
+SHA1-Digest: +CeuAjdITuvaL6CYrEz4/muLmbo=
+
+Name: res/drawable-nodpi-v4/infobar_handle.png
+SHA1-Digest: pH3xAmPw7n7MTE31KYY+dAg0go4=
+
+Name: osmarender/symbols/campSite.svg
+SHA1-Digest: 7ZXmvo3BJoJb0mb5Y6GGX1SbHac=
+
+Name: res/layout/single_row_checkbox_item.xml
+SHA1-Digest: noGSCJHd0GxI1ZlOJ9vlCsze9jc=
+
+Name: res/layout/activity_backlight.xml
+SHA1-Digest: QPnRlGN8f0oBBbMvDH4MAckU8/g=
+
+Name: res/drawable-nodpi-v4/sync0039.png
+SHA1-Digest: fWC+B+KEszKj4Y96da1GaR3YvuI=
+
+Name: res/drawable-nodpi-v4/back_btn30028.png
+SHA1-Digest: 4vaHIUW0W6AopV/NjMDh2M3tGu8=
+
+Name: res/drawable-nodpi-v4/polkimet0064.png
+SHA1-Digest: PSTMD4cUEi0DaXnf49XAjROpfgw=
+
+Name: res/drawable-nodpi-v4/nuoli_up.png
+SHA1-Digest: mCARiUQLI+yJQXSfwcwmwaQ67Rc=
+
+Name: res/drawable-nodpi-v4/polkimet0015.png
+SHA1-Digest: KLcNccn+uvGoCctbq0EDn3wC8bI=
+
+Name: res/drawable-nodpi-v4/zone_hr_bg_1.png
+SHA1-Digest: B7nilq/ckthvIpzHFxNhlPP1sdc=
+
+Name: res/drawable-nodpi-v4/radio_button_off.png
+SHA1-Digest: 1RsBpp+2r2uDzU7P+z1JxfpPxHs=
+
+Name: res/drawable-nodpi-v4/harj_1_4.png
+SHA1-Digest: z2EtrYeD1LobtH1FhYMFzrD2Qo4=
+
+Name: res/drawable-nodpi-v4/maps_26.png
+SHA1-Digest: KMMDowv4LaQuTZbslP5KQpTHpF8=
+
+Name: assets/renderthemes/symbols/church.svg
+SHA1-Digest: 3gcYQxGB1P3WyN35DbmNPQYCUUY=
+
+Name: res/drawable-nodpi-v4/polkimet0054.png
+SHA1-Digest: UIaFjfHX2QA4ko7ItM2pZkc/yUY=
+
+Name: osmarender/symbols/restaurant.svg
+SHA1-Digest: yAJr0KPLFmLTrhOWUfhOYJiQNw8=
+
+Name: res/drawable-nodpi-v4/numpad_up_08.png
+SHA1-Digest: G3sdrzAbTSJyUylNm36QCMX2U9Q=
+
+Name: res/drawable-nodpi-v4/battery_alert_30.png
+SHA1-Digest: cmVsRXQXyWRPqwd6neHPqfJLQmg=
+
+Name: res/drawable-nodpi-v4/sync0052.png
+SHA1-Digest: 0fGgdc5UmeuJqz6j9cYvWvDLDa0=
+
+Name: res/drawable-nodpi-v4/numpad_up_12_plus_minus.png
+SHA1-Digest: rGsGl3ZnJUydgPeVUJs4aZPj/fE=
+
+Name: res/drawable/hr_locked_slider_bg.xml
+SHA1-Digest: TBpTfkudflcUtvp+sfjpdN1J6Oc=
+
+Name: res/drawable-nodpi-v4/numpad_up_09.png
+SHA1-Digest: p2DllZwmJD2UF3VW34Kia9MeyuA=
+
+Name: res/drawable-nodpi-v4/zone1.png
+SHA1-Digest: zowMgbB5YeYvOj4a/XuTjFmJMwQ=
+
+Name: osmarender/symbols/bakery.svg
+SHA1-Digest: Zlm+sYADGMGtiKyV3uFQ7IBOEOk=
+
+Name: res/drawable-nodpi-v4/zone_bg_3.png
+SHA1-Digest: P3OX5/jl9xxbMXWE/shFFMUiUjU=
+
+Name: res/drawable-nodpi-v4/power_zone1_bg_1_4_lock.png
+SHA1-Digest: XdgcPaDuurjRj3tkdCpxB1Qw4EQ=
+
+Name: res/drawable-nodpi-v4/numpad_up_12.png
+SHA1-Digest: 7hvRPPsMAfGWcF1+hwEZKDcHouA=
+
+Name: osmarender/symbols/church.svg
+SHA1-Digest: nZDfNJO1yFOCyBidpMjp1eRlIbs=
+
+Name: res/drawable-nodpi-v4/widget_grid_left_120x70.png
+SHA1-Digest: ZZgKJcJubxoV+HabG9N7OVyTn+s=
+
+Name: res/animator/slide_out_right.xml
+SHA1-Digest: O2CQaqbVNb3zovQcPCXPYGUo/ao=
+
+Name: res/drawable-nodpi-v4/ic_back_to_start.png
+SHA1-Digest: RPyVUxEH1+nM9BbDhe3Jt61YdgQ=
+
+Name: res/drawable-nodpi-v4/harj_1_8.png
+SHA1-Digest: C1Ae8LpHV6Mps9AxaFRU3xYfACs=
+
+Name: res/drawable-nodpi-v4/polkimet0051.png
+SHA1-Digest: zkzQ/nC6AbozPKYRGT8mgDRmDsw=
+
+Name: classes2.dex
+SHA1-Digest: Y/enkWEs627YAMcz1/xfHNM+MSc=
+
+Name: res/drawable-nodpi-v4/back_btn30016.png
+SHA1-Digest: cXBdML5o+5JoIWGl+X1On7baAHM=
+
+Name: res/layout/activity_customize_sport_profile.xml
+SHA1-Digest: jlkUJuaQKtKkNn/P87bT2Hhoz88=
+
+Name: res/drawable-nodpi-v4/back_btn30020.png
+SHA1-Digest: 0CC0bczOIVDztEo4c2fpnMwoAdc=
+
+Name: res/drawable-nodpi-v4/polkimet0048.png
+SHA1-Digest: jAqjQnwMSZDsDKuOYXIfabwTJ9w=
+
+Name: res/drawable-nodpi-v4/maps_direction_up_centered.png
+SHA1-Digest: +uocHZy90G8HpuES8z4WOJqrjU4=
+
+Name: res/color/history_total_valuebox_color_selector.xml
+SHA1-Digest: 2b81hUUjssCupiPjM+5qZd3XxaE=
+
+Name: osmarender/symbols/bus_sta.svg
+SHA1-Digest: t+o2NWZ3Q/6qACwOQUg7Hs9dQxM=
+
+Name: res/drawable-nodpi-v4/slider_dark.png
+SHA1-Digest: zyzGaFUwbAWZzkpeezFAq2x8Oak=
+
+Name: res/drawable-nodpi-v4/numpad_down_10.png
+SHA1-Digest: Ejz9dFdNx7Oa16tM9D7qAQricW8=
+
+Name: res/raw/speed_up.wav
+SHA1-Digest: NmRxEdKW1S//AhQKYPwf3fNEjeQ=
+
+Name: res/drawable-nodpi-v4/maps_18.png
+SHA1-Digest: AV5Sick/SngtgRXGfIz1R95BjAo=
+
+Name: assets/renderthemes/symbols/oneway.svg
+SHA1-Digest: 2qKzrbjn4pU2qjeZFZN9gV5fjnI=
+
+Name: res/drawable/map_browse_icon_selector.xml
+SHA1-Digest: Fw08S5g2/RU4v9f7jr6lPXbvWfg=
+
+Name: res/drawable-nodpi-v4/graf_slider_volume_off.png
+SHA1-Digest: KN2uyAq9p69ArjABEM2ENLSsijQ=
+
+Name: res/drawable-nodpi-v4/sync0027.png
+SHA1-Digest: v50CoqmbfL/rJoEBADjZSsvb+X8=
+
+Name: res/drawable/numpad_button9.xml
+SHA1-Digest: CxyTzL6pQuXqkzleBFWzj72cPVw=
+
+Name: res/drawable-nodpi-v4/polkimet0046.png
+SHA1-Digest: pABTvuOzjINTywTzqUHxx5Ectd4=
+
+Name: res/layout/customize_training_views_content.xml
+SHA1-Digest: HmGDbolmAghukfvmhLfZhEuW2y4=
+
+Name: res/drawable-nodpi-v4/graf_slider_bar.png
+SHA1-Digest: sQmuGJ5jeJb6yGrxn7cP/pyYPqs=
+
+Name: res/drawable-nodpi-v4/sensorbar_bg.png
+SHA1-Digest: Bf0bFCQDq53e56JRyCxBVa0MkI8=
+
+Name: res/drawable-nodpi-v4/graf_slider_bg.png
+SHA1-Digest: /anbjw8gxjCYuBdqjK88ZabxDhs=
+
+Name: res/drawable-nodpi-v4/power_zone1_bg_1_2.png
+SHA1-Digest: WnOGMhNh55SJ1bdjGw4g5JDh330=
+
+Name: res/drawable-nodpi-v4/pedalgraph_base.png
+SHA1-Digest: Ix9NGMVzSgumxXChTZZNiuIW0G0=
+
+Name: res/raw/tick.ogg
+SHA1-Digest: 1H6QqfgGs82cnSH6fjE+A/lLxbw=
+
+Name: res/drawable-nodpi-v4/numpad_down_02.png
+SHA1-Digest: f0q+K4J4o/2c40y9A2slWgyA6Y8=
+
+Name: res/drawable-nodpi-v4/hr_zone1_bg_1_4_lock.png
+SHA1-Digest: kYYKLIvzI/7lzlbCW3KwGX1mxT4=
+
+Name: res/drawable-nodpi-v4/sync0048.png
+SHA1-Digest: LNhouCjh/8yLvukR5uPJjok0hQc=
+
+Name: res/drawable-nodpi-v4/sync0008.png
+SHA1-Digest: b0saRdTkSurGIuV0ItHSf47tCXM=
+
+Name: res/drawable-nodpi-v4/exe_1_8.png
+SHA1-Digest: fzzheNF/nWfvguZeejQV9hh3CaI=
+
+Name: res/drawable-nodpi-v4/back_btn30013.png
+SHA1-Digest: 9V3XGf/uj4YGVp1yoPFacklwBCk=
+
+Name: assets/renderthemes/patterns/nature-reserve.png
+SHA1-Digest: cfUB1ZRxNT6o5TEqCRakHD+Pumc=
+
+Name: res/drawable-nodpi-v4/sync0050.png
+SHA1-Digest: LOpBtGArOg9Ec+3m7brun/l4yyg=
+
+Name: res/drawable-nodpi-v4/hr_1_1_zonelock_4.png
+SHA1-Digest: LajU/0W79GOMYMUlR6rzguUU4lU=
+
+Name: res/drawable-nodpi-v4/notification_bg.png
+SHA1-Digest: 2eft4pwZnC6I4XeyvExigFxMjGc=
+
+Name: res/drawable-nodpi-v4/br_mainview.png
+SHA1-Digest: Nse+WkWGTPUf/+jwUlkaBfpfIDI=
+
+Name: res/drawable-nodpi-v4/exe_1_2_nuoli.png
+SHA1-Digest: LpEzqjikjMQmTm9V9XwNSUeNVe4=
+
+Name: assets/renderthemes/symbols/mosque.svg
+SHA1-Digest: kXfOB6vSzvIdcS7fhI+Q97o0qbQ=
+
+Name: assets/renderthemes/symbols/bench.svg
+SHA1-Digest: /AEjkiZYirPJ/heC5QnbbvnE99c=
+
+Name: assets/renderthemes/symbols/vulcan.svg
+SHA1-Digest: yGomFazh4jtoqWfm57Pm6LxajXk=
+
+Name: res/drawable-nodpi-v4/zone5.png
+SHA1-Digest: eF7jXab/z1boqrClM1D+5hZ/kMg=
+
+Name: res/drawable-nodpi-v4/sync0017.png
+SHA1-Digest: O2/nsS6g0DAJBb6cPmfiO++6yrc=
+
+Name: osmarender/symbols/tree.svg
+SHA1-Digest: 4Q+1YID77EMYgAXooYKg0nsN07M=
+
+Name: assets/renderthemes/symbols/cave_entrance.svg
+SHA1-Digest: ZGbX6z/YMavhOWX+2BT2FqNa894=
+
+Name: res/drawable-nodpi-v4/power_zone3_bg_1_2_lock.png
+SHA1-Digest: 69oFvQvNriC3wtYxk3Q0o0HdbW4=
+
+Name: assets/renderthemes/symbols/windmill.svg
+SHA1-Digest: Psz/GLlLKQ18Wxc+eVKo4ocJm5g=
+
+Name: osmarender/symbols/oneway.svg
+SHA1-Digest: vkp3ZNG2CUa0VQlz6y2fuUZJCLE=
+
+Name: res/drawable-nodpi-v4/error.png
+SHA1-Digest: UOU4LU7Bi4ULyDAPljirlhAIp6Y=
+
+Name: res/drawable-nodpi-v4/hr_30x30.png
+SHA1-Digest: pEC5BXG8giPrjqMLHFSIan1HCp4=
+
+Name: osmarender/symbols/monument.svg
+SHA1-Digest: moLarv8+HWZPATtV3Seytpli5ew=
+
+Name: res/drawable/power_line_half_bg.xml
+SHA1-Digest: 57m6FGTdw0HrhAgHmakGbyPWB4Q=
+
+Name: osmarender/symbols/train_station.svg
+SHA1-Digest: 1UMd8datgZajTGpvaComTxtksuI=
+
+Name: osmarender/symbols/bicycle_rental.svg
+SHA1-Digest: 31ih3e3lclHjGcGUBbBobLKRNxA=
+
+Name: res/drawable-nodpi-v4/sync0019.png
+SHA1-Digest: TCNrACOL8W01eL9+Wb+0G59rcVk=
+
+Name: res/drawable-nodpi-v4/sync0001.png
+SHA1-Digest: r07LpdgJgz0l+jTBN8Xp6SYF428=
+
+Name: osmarender/symbols/railway-crossing-small.svg
+SHA1-Digest: qFpmSvy54uNfcrAGmDFkAwyaBB4=
+
+Name: res/drawable-nodpi-v4/sync0010.png
+SHA1-Digest: x+0FHJn7XxccKlcuG0g7bR/aPwY=
+
+Name: res/drawable/selector_radiobutton.xml
+SHA1-Digest: xAS2KdFkcNiz4lt0Js6iygPe7CU=
+
+Name: res/drawable/front_led_widget_blink.xml
+SHA1-Digest: vH75DQj+zNG1CWgiL1YeWkjUBzE=
+
+Name: res/animator/rotatation.xml
+SHA1-Digest: hOZRCj/MKZLn9ED8yQVI8Ipi3qs=
+
+Name: res/drawable-nodpi-v4/sync0011.png
+SHA1-Digest: fTalH5S7UusBf29TR4KPkPYRpY4=
+
+Name: assets/renderthemes/symbols/recycling.svg
+SHA1-Digest: 8l8HimW3t+8GhEtTeZliBRd1MGY=
+
+Name: res/drawable/numpad_button_plus_minus.xml
+SHA1-Digest: vEV/zCm/OMrEcnoiYqFJ1dd+uWY=
+
+Name: res/drawable-nodpi-v4/history_list_item.png
+SHA1-Digest: B525V1NpVLkpIhU2FjL+hGT6UAU=
+
+Name: res/drawable/sensor_indicator_status_bg_selector.xml
+SHA1-Digest: HTFA+MmsHd/xxccNs4w6Mm9vYlk=
+
+Name: res/drawable-nodpi-v4/recovery_bg.png
+SHA1-Digest: 6c0IIGxWeJVNQtTi8X6LMRAFJPA=
+
+Name: res/drawable/indicatorarea_exercise_color.xml
+SHA1-Digest: Lm0whnymQRiIYQR5Dg63UJIWNw0=
+
+Name: res/drawable-nodpi-v4/polkimet0037.png
+SHA1-Digest: BzPj+rkdFXq7QGeRU1uKZzhBQ9g=
+
+Name: res/drawable-nodpi-v4/power_zone2_bg_1_4.png
+SHA1-Digest: VQ/Rg7RBxgceJWwD1r94VonoEIU=
+
+Name: res/drawable-nodpi-v4/gps_30x30.png
+SHA1-Digest: mAH6Rz9wCrK54pVYb7bzVwopwfA=
+
+Name: res/drawable-nodpi-v4/route_end.png
+SHA1-Digest: wM4se4a1bONzIRjFcMqw3djmei4=
+
+Name: res/drawable-nodpi-v4/polkimet0042.png
+SHA1-Digest: c6mqHMLj7aTLbfRMn4SG7rneC3E=
+
+Name: res/drawable/numpad_button2.xml
+SHA1-Digest: mRo295MA8lM6349P/yjhpDYWLd0=
+
+Name: res/drawable-nodpi-v4/polkimet0012.png
+SHA1-Digest: mvj7HF/92zVWQHEhF8sXVjYk4Zo=
+
+Name: assets/renderthemes/symbols/petrolStation.svg
+SHA1-Digest: ko6c7BiqYlePIQJ6xwkxCayYq7o=
+
+Name: res/drawable-nodpi-v4/power_zone5_bg_1_4_lock.png
+SHA1-Digest: 6aPVgb8ivv/qMg57m0nWlEvrFlM=
+
+Name: res/drawable-nodpi-v4/power_zone1_bg_1_2_lock.png
+SHA1-Digest: hEMHm0XZvBLwf7rkI4+ePUv9J6I=
+
+Name: res/drawable/numpad_button_dot.xml
+SHA1-Digest: +5H0+B+Ce1KB8NVZLSfVSfTxq58=
+
+Name: res/drawable-nodpi-v4/sync0024.png
+SHA1-Digest: ZqgppQUfknFHzRVERH9TlgmvgY4=
+
+Name: res/drawable-nodpi-v4/session_history_1_8leftlink.png
+SHA1-Digest: C11zJp9//HyLR6Xybj5/jUfA6Ug=
+
+Name: res/drawable-nodpi-v4/sync0042.png
+SHA1-Digest: t5wz5j4dLA1/evl8M8fuDxLs+QM=
+
+Name: res/drawable-nodpi-v4/numpad_down_01.png
+SHA1-Digest: NMzKEuFVY0ko1F1sT3nVVbprJLM=
+
+Name: res/drawable-nodpi-v4/graf_slider_automaticlight_bright.png
+SHA1-Digest: dt3SqnE644Vm3894iX509ZuV5EA=
+
+Name: res/drawable-nodpi-v4/graf_popup_scroll_focus.png
+SHA1-Digest: UPRn3GSnIRg/9NxCi6JkbDKKWX0=
+
+Name: res/drawable-nodpi-v4/numpad_down_10_back_02.png
+SHA1-Digest: WlhnWLuN2sMHqR13ls0eyr6lsM0=
+
+Name: res/drawable-nodpi-v4/back_btn30030.png
+SHA1-Digest: UF6OwGDR5HTsSgInqTUOBCzw+0I=
+
+Name: res/drawable-nodpi-v4/hr_zone5_bg_1_2.png
+SHA1-Digest: SCqNv+cj7T39XaIMMzbX+c/EpfI=
+
+Name: res/drawable-nodpi-v4/battery.png
+SHA1-Digest: egQvVRTyoZ4NO6ccPaDJaZU3Bzw=
+
+Name: assets/ifaceup.sh
+SHA1-Digest: 29o29Hhctgpi3nr5SGyKCLjXaKM=
+
+Name: res/drawable-nodpi-v4/polkimet0006.png
+SHA1-Digest: Xu9gpO7QzrYTmTh8ErTWut9A5MI=
+
+Name: res/drawable-nodpi-v4/sync0054.png
+SHA1-Digest: P682SzPQG2TMLUL4IKnHxKNR8aM=
+
+Name: res/drawable-nodpi-v4/maps_21.png
+SHA1-Digest: Vq7cVdVcGTjvpHAh0gNGu2U2TeQ=
+
+Name: res/drawable-nodpi-v4/lap_1_1.png
+SHA1-Digest: QEh48EEIwucDHdUUXj0YkJD6Vjo=
+
+Name: res/drawable-nodpi-v4/numpad_down_08.png
+SHA1-Digest: +GbidF0odtLrf9Urc/oeRiLDcWs=
+
+Name: res/layout/activity_profile_selection_content.xml
+SHA1-Digest: CGHt6M/zBwmNEIWLd/eoaiwUrEM=
+
+Name: res/drawable-nodpi-v4/sync0036.png
+SHA1-Digest: EwcxonuGZB6uCBV8Xea9rIlWHu8=
+
+Name: res/drawable-nodpi-v4/main_widget_tile_1_4_2part.png
+SHA1-Digest: l8F6s4UlTaiDpb7Yr6WyT55dlWk=
+
+Name: res/drawable-nodpi-v4/polkimet0057.png
+SHA1-Digest: KP9Ym1CcCQRZssU5lnQKd0nmkbo=
+
+Name: res/drawable/list_item_bg.xml
+SHA1-Digest: 6t4ZsNss5araqYnccT5220rmdsg=
+
+Name: res/layout/activity_history_totals_content.xml
+SHA1-Digest: 53gjEU20ns5VbgfIPTyiSYDhbNU=
+
+Name: osmarender/symbols/fastfood.svg
+SHA1-Digest: tIMcDtAZTymgKJ6n8LaG3kTrLhg=
+
+Name: res/drawable-nodpi-v4/numpad_up_04.png
+SHA1-Digest: kxMiAnt67xAhudd8QPFJ8OkLCLw=
+
+Name: res/drawable/hr_line_half_bg.xml
+SHA1-Digest: nvFKMJLZ1mzuUgA1FcCt022q0tU=
+
+Name: osmarender/symbols/hotel.svg
+SHA1-Digest: eH66/dS/ee0QFXNI4SEsRyH7BQ0=
+
+Name: osmarender/symbols/shelter.svg
+SHA1-Digest: kXJPAp00yAfg1F4jGg8cqEgUxds=
+
+Name: res/drawable-nodpi-v4/navibar_bg.png
+SHA1-Digest: bTWB5wJrN39AUYsb7siTHDCasCE=
+
+Name: assets/renderthemes/patterns/marsh.png
+SHA1-Digest: RolrORKAKv1nxo16Nz71oMfzaHQ=
+
+Name: assets/renderthemes/symbols/railway-crossing-small.svg
+SHA1-Digest: qFpmSvy54uNfcrAGmDFkAwyaBB4=
+
+Name: res/drawable-nodpi-v4/harj_1_2.png
+SHA1-Digest: LoKun9B/pZes9Z4BvuoprzmgVyI=
+
+Name: res/drawable-nodpi-v4/speed_20x20_black.png
+SHA1-Digest: ANixmXj0th1AQMplpr3BgTu6Np0=
+
+Name: res/drawable-nodpi-v4/polkimet0053.png
+SHA1-Digest: 4kc8cGU/3fZbT8scNbxsANZoptE=
+
+Name: res/drawable-nodpi-v4/sync0049.png
+SHA1-Digest: lkoGzkpxPkHy49Zw8L1Ix8nyIFs=
+
+Name: res/drawable-nodpi-v4/hr_zone3_bg_1_4.png
+SHA1-Digest: eVM8tQijcLgllUdgAuMsP4OhL+Q=
+
+Name: res/drawable/pin_dot_bg.xml
+SHA1-Digest: zM+TFzPd5JyGP11YOkI8hNk1dWY=
+
+Name: osmarender/symbols/playground.svg
+SHA1-Digest: 2lwj7oUSxPOOHqK/hjrE3iy2fkI=
+
+Name: res/drawable-nodpi-v4/maps_19.png
+SHA1-Digest: gKPf+VaOTXAi2QkV37I0WM91Pw0=
+
+Name: res/drawable-nodpi-v4/maps_north_up_centered.png
+SHA1-Digest: Ev3Kg7QE09e/eSrBG1jcpFuTf3o=
+
+Name: res/drawable-nodpi-v4/exe_1_4.png
+SHA1-Digest: Fqb+wL4rFrcbtZsYHg7MIWaVU9Y=
+
+Name: assets/renderthemes/symbols/bicycle_rental.svg
+SHA1-Digest: iWhutIiv2079HbGJIEdc8Gy6dmQ=
+
+Name: res/drawable-nodpi-v4/hr_zone12345_lock_heart_bg.png
+SHA1-Digest: /5xWw/tYTDxTOf61e6E+mF2qZ9s=
+
+Name: res/drawable-nodpi-v4/numpad_up_12_dot.png
+SHA1-Digest: GIsE/P5R60iUxDX8t+Joupeo7bk=
+
+Name: res/drawable/numpad_button_back.xml
+SHA1-Digest: WwSvGEtL40waM94AtVB5XPjFMZc=
+
+Name: res/drawable-nodpi-v4/ic_selectionbutton_enabled.png
+SHA1-Digest: ga3ZvECoohomG0T9ZuAZaok068A=
+
+Name: res/drawable-nodpi-v4/numpad_down_12.png
+SHA1-Digest: 0GtEvjdC1orL9ikvzngMceI513Q=
+
+Name: res/drawable-nodpi-v4/sync0040.png
+SHA1-Digest: 2pumWO9f9q35DH9v6UZ9vpqz1nI=
+
+Name: res/drawable/indicator_dot_disconnected.xml
+SHA1-Digest: IL20YB/AUqNQXy39N7bFUjnTMqI=
+
+Name: res/drawable-nodpi-v4/power_calibrating0.png
+SHA1-Digest: klZSTXz3E2r/VftyrYrrYc27D2s=
+
+Name: osmarender/symbols/bench.svg
+SHA1-Digest: rYWRoMwtQNSS3h6QuFDN/iDMPik=
+
+Name: res/drawable-nodpi-v4/hr_1_1_zonelock_2.png
+SHA1-Digest: 1LdwaxdZ+ER0ria0jj0Q3Lt17ac=
+
+Name: res/drawable-nodpi-v4/back_btn30021.png
+SHA1-Digest: 4jhQSQ8/J0qklk/Kh+RVcZ6VPYI=
+
+Name: assets/renderthemes/symbols/postoffice.svg
+SHA1-Digest: aU8FK3xLmroJI5VOk/xhotzLtD0=
+
+Name: assets/renderthemes/symbols/atm.svg
+SHA1-Digest: Md/awvM4W+UjgZMkbaIJ0VDA820=
+
+Name: res/drawable-nodpi-v4/power_30x30.png
+SHA1-Digest: zeZu+uV1xlMd7h3u3910czFxsBA=
+
+Name: res/drawable/maps_type_indicator_selector.xml
+SHA1-Digest: LTONvJL7610sV9O3ArOz0jZ892Y=
+
+Name: res/drawable-nodpi-v4/polkimet0066.png
+SHA1-Digest: vjlSt6WDXpWjAPeP+ol5DK9roL4=
+
+Name: osmarender/symbols/pub.svg
+SHA1-Digest: QRLfNwS/o03AHbyyXsxugbvFmp0=
+
+Name: res/raw/slow_down.wav
+SHA1-Digest: v2eEPJq/MsYFCk0VXYN6ztk9Y+g=
+
+Name: res/drawable-nodpi-v4/back_btn30024.png
+SHA1-Digest: BsagQqZzXBaDZyJHePqXrWBr/e4=
+
+Name: res/layout-small-v4/activity_user_info.xml
+SHA1-Digest: 9/qUurPvFgeJ92jTst97ro+Ag4A=
+
+Name: res/layout-small-v4/activity_front_led.xml
+SHA1-Digest: enmF9qX3hz4UTmopXeRHuU7HcEk=
+
+Name: res/drawable-nodpi-v4/ic_light_indicators_on_gray1.png
+SHA1-Digest: K7+XzGsmlB6ASSpQR5u4JwWRs8A=
+
+Name: res/layout/history_sessions_listitem.xml
+SHA1-Digest: Pk32uwFwtFW4mymqyXjWvL+YrhM=
+
+Name: res/drawable-nodpi-v4/back_btn30023.png
+SHA1-Digest: 6gi0NWYWKBY+dlyTNbSXDfUQ9u8=
+
+Name: res/layout/exercise_pause_layout.xml
+SHA1-Digest: riXMYHcLnY8Xp13jbdLj+kvibhU=
+
+Name: res/drawable-nodpi-v4/indicator_bg_240x69.png
+SHA1-Digest: WeeWUhWen22oyewe/TDurt0ZjoQ=
+
+Name: res/layout/activity_history_totals.xml
+SHA1-Digest: 70Tgs7rsk64uvBcgNOr8wuhm2ag=
+
+Name: res/animator/slide_in_left.xml
+SHA1-Digest: GtjKfPHUhbbAuXCPYtGp8cKhfqI=
+
+Name: res/drawable-nodpi-v4/polkimet0038.png
+SHA1-Digest: jRlLEsJW+oQMpYW32Bz+FSZkkjw=
+
+Name: res/drawable-nodpi-v4/altitude_sight.png
+SHA1-Digest: jih9SJ6DS0OVZ3rrWXgMJv8v3hc=
+
+Name: res/drawable-nodpi-v4/sync0057.png
+SHA1-Digest: WE55NupqstFPErdXShxyX5oAgMI=
+
+Name: res/drawable/battery_bg_selector.xml
+SHA1-Digest: PjOKUbcbU+7uBZrtbCgBXiekNZY=
+
+Name: res/drawable-nodpi-v4/back_btn30006.png
+SHA1-Digest: Rm7e4yqwvn6XS7igyRU9tL1JQds=
+
+Name: res/drawable-nodpi-v4/polkimet0001.png
+SHA1-Digest: tMULapWy9D9jOSMGcTj75lnwf+I=
+
+Name: assets/renderthemes/symbols/library.svg
+SHA1-Digest: gpLnqERa7TJlzmyZgufL3M3p6k4=
+
+Name: res/drawable-nodpi-v4/power_zone4_bg_1_2.png
+SHA1-Digest: 5c4CfDLviYKsoGvknaLncu8JCIY=
+
+Name: res/layout-small-v4/activity_general_settings.xml
+SHA1-Digest: EInDqusW36JaYONwBqZLeTUBWPM=
+
+Name: res/drawable-nodpi-v4/hr_zone1_bg_1_2.png
+SHA1-Digest: f8Kv1/O4QxRp76dsYGvwebd7lEE=
+
+Name: res/drawable-nodpi-v4/main_widget_tile_empty.png
+SHA1-Digest: B+4xxkIfVSdwok1lREa1fGZjDqQ=
+
+Name: res/drawable-nodpi-v4/polkimet0023.png
+SHA1-Digest: sZcLeHV7kjq4FX274o6EGAjnlbY=
+
+Name: res/drawable-nodpi-v4/zone4.png
+SHA1-Digest: mrOoS6I+VAUQNe0kGoPC4BeVS3I=
+
+Name: assets/renderthemes/symbols/traffic_signal.svg
+SHA1-Digest: Dt4C/HHlLZBUTP/n1ikNsVhg8fw=
+
+Name: res/drawable-nodpi-v4/polkimet0028.png
+SHA1-Digest: oHGU5yWk42pqKux/8/ixFSKdXq0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: cs4fQ0vaHM+HnaW7iX2mSnjpsnk=
+
+Name: assets/renderthemes/symbols/monument.svg
+SHA1-Digest: o8DuJoJQucDea3XAAJ9vWrIudqY=
+
+Name: res/drawable-nodpi-v4/polkimet0030.png
+SHA1-Digest: eFYj6Q12KjZr4rBJbWbbdqkMpUE=
+
+Name: osmarender/symbols/school.svg
+SHA1-Digest: mNaOAU3r//+6Dtl0tinT4JoUGbA=
+
+Name: assets/renderthemes/symbols/peak.svg
+SHA1-Digest: x64aCA0G9mssJXrgyy0nO7Dwsdg=
+
+Name: res/drawable/selector_button.xml
+SHA1-Digest: QeRepO0/S3cbqQ1WFxCd31m2SBU=
+
+Name: res/drawable/zonebar_1_drawable.xml
+SHA1-Digest: SGM+NM9vxggwuJcU+HS7U7of/JE=
+
+Name: res/drawable-nodpi-v4/continue_continue.png
+SHA1-Digest: AHN1uu9CatNcGPRo5xAHfM2hHSA=
+
+Name: assets/README.HTM
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/renderthemes/symbols/restaurant.svg
+SHA1-Digest: 8gJU2oGH6LLagsQcQOZrDALkd6Y=
+
+Name: res/drawable-nodpi-v4/polkimet0003.png
+SHA1-Digest: tOqdeyQrvAPLBCMsnsfwZdhkUyo=
+
+Name: res/drawable-nodpi-v4/sync0046.png
+SHA1-Digest: jtKknnRlLs+GlGm6tINh/dznkPA=
+
+Name: res/drawable-nodpi-v4/full_circle_100.png
+SHA1-Digest: 5HL4ph5RcVivzPvs4yG/DeSTyDc=
+
+Name: res/drawable/selector_button_text_color.xml
+SHA1-Digest: VAMX5eg5RcELak4DcCP9LXzloQ8=
+
+Name: res/drawable-nodpi-v4/back_btn30017.png
+SHA1-Digest: c04QVA8aj46edHegHCL9/0O35Xw=
+
+Name: assets/renderthemes/symbols/pharmacy.svg
+SHA1-Digest: 1F/0n5INC/AQyGhc5BRNhTIe6d0=
+
+Name: res/drawable-nodpi-v4/numpad_down_06.png
+SHA1-Digest: sdefGBQbXd6oH32AX7hVnIvIH1k=
+
+Name: classes.dex
+SHA1-Digest: 9jBATHoAHPWN70+N/zeblixJXl8=
+
+Name: res/drawable-nodpi-v4/harj_1_1.png
+SHA1-Digest: iHPbCWG5OiwwkVPsu9o5YErbp7o=
+
+Name: res/drawable-nodpi-v4/polkimet0005.png
+SHA1-Digest: Z4dCoQXaVu7gcA0oMRZkegKLPXk=
+
+Name: assets/renderthemes/symbols/university.svg
+SHA1-Digest: 2BMj1FzWR51fDAyxNvOtl3mQrnw=
+
+Name: COPYING
+SHA1-Digest: hiS82uVbru8AzRHV38+mD2hxCgI=
+
+Name: res/layout/activity_user_info.xml
+SHA1-Digest: 7IgSepcp45Z2WWSHwvbFIS1IbnE=
+
+Name: res/drawable/inclinometer_background.xml
+SHA1-Digest: e34r1OxHO3PtpnbLTVoajtIrTvk=
+
+Name: res/drawable-nodpi-v4/main_widget_tile_hover.png
+SHA1-Digest: t/Oy7g04Ff+vJpY24oA09HyiKSA=
+
+Name: res/drawable-nodpi-v4/downswip_brake.png
+SHA1-Digest: cB/+P81LsqJ8ai7gS/ibMNnTr50=
+
+Name: assets/renderthemes/world.xml
+SHA1-Digest: tudELrEWE1di1Oadcv6X83PAsdA=
+
+Name: res/layout/customize_training_views.xml
+SHA1-Digest: FB0ed4Nn93UrRSdP3WoPzmxxkEw=
+
+Name: res/drawable/numpad_button11.xml
+SHA1-Digest: tpJvMglnqcAlPa7nqJOYu5eJT9k=
+
+Name: res/drawable/cad_gear_shifter.xml
+SHA1-Digest: NrS4mNkf59Tnd0A3o2RVZU1vfOE=
+
+Name: res/drawable/radiobutton_image.xml
+SHA1-Digest: tUPqtxIiB+KmXyqaaC/9UdolUyE=
+
+Name: osmarender/symbols/alpine_hut.svg
+SHA1-Digest: 1B2idVU5zqmIyHc25eLB34E9x00=
+
+Name: res/drawable-nodpi-v4/hr_zone2_bg_1_4_lock.png
+SHA1-Digest: OSCy/xpH7DEQeIH28XQNWGYryms=
+
+Name: osmarender/symbols/chair_lift_2.svg
+SHA1-Digest: Jiqf1VEcD3XGjL5mPSc6je+VwOQ=
+
+Name: res/drawable-nodpi-v4/polkimet0034.png
+SHA1-Digest: C032eF1bkjFK/RRnlON3D1PBsg4=
+
+Name: res/drawable-nodpi-v4/full_circle_0.png
+SHA1-Digest: sTDi+UpgdlEmn9OUYjYxHxkMr/Q=
+
+Name: res/drawable/front_led_widget_auto.xml
+SHA1-Digest: zkH5sFUAKPAuCxp4fR/+MOhFUMk=
+
+Name: res/drawable/custom_slider_bg.xml
+SHA1-Digest: Iy2ZyGJYoRaJAEWA/sKphp3G0w0=
+
+Name: res/drawable-nodpi-v4/polkimet0017.png
+SHA1-Digest: Vq+zgtd16s3f7Whb6EdOpWM7+bQ=
+
+Name: res/drawable-nodpi-v4/sensor_power.png
+SHA1-Digest: IHqgIHK/drxIuhWnXyL8Ns0Dwng=
+
+Name: res/drawable-nodpi-v4/polkimet0027.png
+SHA1-Digest: 5yq9oB1pZmmUXPBjIPG2QzJsBfI=
+
+Name: res/drawable/zonebar_4_drawable.xml
+SHA1-Digest: Jzp9A2iLixgOmNQV/KgZGnlKLnc=
+
+Name: assets/renderthemes/symbols/cable_car.svg
+SHA1-Digest: //kYyFw0gT9t4JYacA7UlcNlZHA=
+
+Name: res/drawable-nodpi-v4/maps_27.png
+SHA1-Digest: gzVQjP7H6QNf3VgTu/ahF/K50Tc=
+
+Name: res/drawable-nodpi-v4/zone3.png
+SHA1-Digest: Akx2IZlH1nBkqUyNWDkj3lj+gYY=
+
+Name: res/drawable-nodpi-v4/iso_spinneri.png
+SHA1-Digest: lXo8bEW4tHdDs7tDeLgTV7soAp0=
+
+Name: res/drawable-nodpi-v4/sync0028.png
+SHA1-Digest: 802KakavbHmfnvuaaqo93fAsSw8=
+
+Name: res/drawable-nodpi-v4/numpad_up_07.png
+SHA1-Digest: gOjUECNaKLoPuxd3Qrtaj/AkzEY=
+
+Name: res/drawable-nodpi-v4/polkimet0009.png
+SHA1-Digest: Zo83m3zMlw98EGXjxieR8iuNIAI=
+
+Name: res/drawable-nodpi-v4/power_calibrating1.png
+SHA1-Digest: /Czf01lVuQyxL9eRjogttkOYhs4=
+
+Name: res/drawable-nodpi-v4/back_btn30008.png
+SHA1-Digest: KfR8tuiuUr5gWtQNgMNAx04u3Ms=
+
+Name: res/drawable-nodpi-v4/polkimet0013.png
+SHA1-Digest: pVVsHXQhKuPfNylojhuVPIpMkQw=
+
+Name: res/drawable-nodpi-v4/polkimet0026.png
+SHA1-Digest: n7Fh9gjk546UetMsrGTWyxgyM3k=
+
+Name: res/layout/activity_customize_sport_profile_content.xml
+SHA1-Digest: k6jXukIHfkLp2kL88W2Qm/4euLk=
+
+Name: res/drawable/power_line_quarter_locked_bg.xml
+SHA1-Digest: YNgdwPt2SGUTB0oJE+MlNI+ZMRs=
+
+Name: res/drawable-nodpi-v4/main_widget_tile_1_4.png
+SHA1-Digest: fhk8Wc9ydQJj0jFVf92kqpeC6ZE=
+
+Name: res/drawable-nodpi-v4/history_total_240x120.png
+SHA1-Digest: R/kdlUvZY1GfybDMvR+okSh5FKs=
+
+Name: res/drawable-nodpi-v4/graf_slider_brightness.png
+SHA1-Digest: x0RIaWWcgl+HnDn8dPu3zxH8NFs=
+
+Name: res/drawable-nodpi-v4/sync0035.png
+SHA1-Digest: pPswOkk2k5Ug67X6huaUwFskdX4=
+
+Name: res/layout/activity_profile_selection.xml
+SHA1-Digest: K9QYgdt3aBcHir9OACtPK0am1V4=
+
+Name: res/drawable-nodpi-v4/back_btn30003.png
+SHA1-Digest: ViphmbVy7/KMVc1dnbwl0/uY4/4=
+
+Name: assets/renderthemes/symbols/school.svg
+SHA1-Digest: 2zbSXixnsbA95gkE3bzzAP5RxOQ=
+
+Name: res/drawable-nodpi-v4/polkimet0010.png
+SHA1-Digest: qFndosV7Fyq0NUIYM+0I9r1Qm8k=
+
+Name: osmarender/symbols/cafe.svg
+SHA1-Digest: lc4W1auxN++lCtlSlVQw9Fcq+Xg=
+
+Name: assets/renderthemes/symbols/hospital.svg
+SHA1-Digest: P5GElVj8Rh8OSrYVIrOIihhXOlM=
+
+Name: res/drawable/list_item_selector.xml
+SHA1-Digest: 83Iwsnu3IzmwaUncj6Q+Vk5we3I=
+
+Name: res/drawable-nodpi-v4/back_btn30026.png
+SHA1-Digest: 0Lr6YYAj00Leik6MNPSyJRO7/bA=
+
+Name: osmarender/symbols/soccer-borderless.svg
+SHA1-Digest: JKjj6CfK4Zk7aN2BeHsxrRpPS0A=
+
+Name: res/drawable-nodpi-v4/ic_light_indicators_on_gray3.png
+SHA1-Digest: jWPKH3E8+Mbg21bLYAitUs5Sn3k=
+
+Name: res/drawable-nodpi-v4/polkimet0049.png
+SHA1-Digest: f1HNUMgIMSUSu/5rxjmV1czNAxU=
+
+Name: res/layout/activity_exercise.xml
+SHA1-Digest: D9CvNZkiQ7Et+zg4CZHbLjGmTyU=
+
+Name: res/drawable-nodpi-v4/zone2.png
+SHA1-Digest: W9o0WGa6p74EjOrr9ce0TH4Pa5c=
+
+Name: res/drawable-nodpi-v4/ic_light_indicators_on_gray2.png
+SHA1-Digest: yS7RgOIZMMSmfedhtlHed9dwjQ0=
+
+Name: osmarender/symbols/recycling.svg
+SHA1-Digest: ZWSJvwKXiIUH/zClPYh/ZJW7tBw=
+
+Name: res/drawable/snap_to_location_bg.xml
+SHA1-Digest: G3GIz1jgNdyr+augmZx+7vCvQeI=
+
+Name: res/drawable-nodpi-v4/radiobutton_deselected.png
+SHA1-Digest: MDxhIrl67/2zbgS8GHt5p4k9kbA=
+
+Name: res/drawable-nodpi-v4/polkimet0041.png
+SHA1-Digest: FEe1NCWRmSPYQ11+60hemQHQpJE=
+
+Name: res/drawable-nodpi-v4/dialog_down.png
+SHA1-Digest: VzVjxCFP9701mD1hLLWTqnH99x8=
+
+Name: res/drawable-nodpi-v4/back_btn30012.png
+SHA1-Digest: Zpk5BEPvaajckULFCYe6oSoukjs=
+
+Name: res/drawable-nodpi-v4/start_button_bg.png
+SHA1-Digest: JMG7zAT+B9iODrXtZzs1sobXEpI=
+
+Name: res/drawable-nodpi-v4/graph_icon.png
+SHA1-Digest: dzZ+Hdrjq8B4twGsMMlYfJPEOM8=
+
+Name: res/drawable-nodpi-v4/settings_list_item.png
+SHA1-Digest: tZo+mWVYD18/ymHxDFLoeYz7f4o=
+
+Name: osmarender/symbols/synagogue.svg
+SHA1-Digest: iyDYg/a57BDoehpb7FoY/fVF9rg=
+
+Name: osmarender/symbols/windmill.svg
+SHA1-Digest: OqMf0fR66sCeDxopj0WYMYTTMfM=
+
+Name: assets/renderthemes/symbols/postbox.svg
+SHA1-Digest: R6Qfe/WXTo9XEpZCvnWE3hvtP+U=
+
+Name: res/drawable-nodpi-v4/hr_1_1_zonelock_3.png
+SHA1-Digest: RI8OxiZiBkzd53O+9kF4a3I9y84=
+
+Name: res/drawable/selector_checkbox.xml
+SHA1-Digest: pW3p/wiXVbwJ2m92ar7AVu7/6R0=
+
+Name: renderTheme-v4.xsd
+SHA1-Digest: seFVSBxoxYmZQu6z3aXORbHDaPU=
+
+Name: res/drawable-nodpi-v4/polkimet0043.png
+SHA1-Digest: P+AZFx/pOoWlOjqetekr0Gat4lc=
+
+Name: res/drawable/mainwidget_bg_2part_selector.xml
+SHA1-Digest: maYOCwq91CKwrfGigw+lw+0vg1w=
+
+Name: res/drawable-nodpi-v4/graf_bg_popup_title.png
+SHA1-Digest: PFNEgpIslclrW4fbBaSWjuakfiM=
+
+Name: osmarender/symbols/postoffice.svg
+SHA1-Digest: twDo+s1faWBkfGs0KLh03OhUG38=
+
+Name: assets/renderthemes/symbols/synagogue.svg
+SHA1-Digest: 6s1TgYopEiT73hxdGEB88evQ47Q=
+
+Name: assets/renderthemes/symbols/fastfood.svg
+SHA1-Digest: P6ywWhWHUgu0GKZ/oJkAXBNelRQ=
+
+Name: res/layout/activity_backlight_content.xml
+SHA1-Digest: J3OmjIJJspfFyBj72ZfpvhZshKs=
+
+Name: res/drawable-nodpi-v4/pedalgraph_bg_slowdata.png
+SHA1-Digest: iujNPxokgjROgNCdOOY2J19U5v8=
+
+Name: res/drawable-nodpi-v4/ic_light_indicators_on_green1.png
+SHA1-Digest: Rq95Emm3j0r4EnOcGrFZ699GPHA=
+
+Name: res/drawable-nodpi-v4/polkimet0033.png
+SHA1-Digest: eqOVK1vdU/S+bNlQcdvmxxitkLo=
+
+Name: res/drawable-nodpi-v4/polkimet0061.png
+SHA1-Digest: bKNYu2bbE3HLFvQ2Bj17eTjqaBo=
+
+Name: res/drawable-nodpi-v4/back_btn30022.png
+SHA1-Digest: FRxCE6TyK269SIFqR4JjZMQvFw4=
+
+Name: res/drawable-nodpi-v4/sync0043.png
+SHA1-Digest: aS0etmfS62f1UEyslknYr5VXhDM=
+
+Name: assets/renderthemes/symbols/fountain.svg
+SHA1-Digest: zIIwNXTziMe+4gE2CiR7Tq5cFpM=
+
+Name: res/drawable-nodpi-v4/polkimet0050.png
+SHA1-Digest: hPk52V+Eh5QTICkdlajx87AjQ04=
+
+Name: res/drawable-nodpi-v4/power_zone4_bg_1_4.png
+SHA1-Digest: JcAwNTH27FxMPB0a6mQ7DPZ93a8=
+
+Name: res/drawable-nodpi-v4/sync0055.png
+SHA1-Digest: sNs8yIMNNNBW/5J2lnEfdAXxloc=
+
+Name: res/drawable-nodpi-v4/polkimet0039.png
+SHA1-Digest: GraxkOYoffCIW4s1vBF2KQVgs3M=
+
+Name: osmarender/patterns/wood-coniferous.png
+SHA1-Digest: 8JI3NMXxIXGCYCtRvtluSsRhswc=
+
+Name: res/drawable/selector_totals_bike_bg.xml
+SHA1-Digest: BZeEsxPaBMqdGEPEOj3Ox8eGmd8=
+
+Name: res/drawable-nodpi-v4/sync0022.png
+SHA1-Digest: LzW1PH3MRB7vbG36DbOoiR88Wm8=
+
+Name: res/color/session_list_item_text_color_selector.xml
+SHA1-Digest: ZCDV2+5x6erZpGYBWvFvSamKkDE=
+
+Name: assets/renderthemes/symbols/drinking_water.svg
+SHA1-Digest: jKx4/X7QOru8K93GSlAGtCiD8jU=
+
+Name: res/drawable-nodpi-v4/lap_1_4.png
+SHA1-Digest: A9ZpGmUp1KgY8ix/y/USKxPUJnc=
+
+Name: res/drawable-nodpi-v4/sync0006.png
+SHA1-Digest: tK/2Sfq944y0vGzmKKkcCAHO1lA=
+
+Name: assets/renderthemes/patterns/military.png
+SHA1-Digest: bTLNiZHuAkUGBSXZh/sLbedxOLY=
+
+Name: res/drawable-nodpi-v4/graph_icon_selected.png
+SHA1-Digest: JbwnIr8WbkYkk4LH/+eiEhkwz6c=
+
+Name: osmarender/symbols/theatre.svg
+SHA1-Digest: ZABvYF79M8eObAqfrVrCGU6syPk=
+
+Name: res/drawable/numpad_button12.xml
+SHA1-Digest: AFnDRZvIje+x3P1aW9ATiQYBZHs=
+
+Name: res/drawable-nodpi-v4/polkimet0044.png
+SHA1-Digest: TxM5jZGBvuLCuXb7nx+dm99NF8M=
+
+Name: osmarender/symbols/kindergarten.svg
+SHA1-Digest: XHHpjiezOukzYICqr8fmdJlpyzc=
+
+Name: res/drawable-nodpi-v4/power_20x20_black.png
+SHA1-Digest: bW/VZ5LHp2c5VCVBwbRrBVfIuZg=
+
+Name: res/drawable-nodpi-v4/polkimet0032.png
+SHA1-Digest: MMwsG9Qox9wK+mx+PUTXWNXELPI=
+
+Name: osmarender/symbols/peak.svg
+SHA1-Digest: oRcDQ0njeNc0zrAlKYiXBw03VF8=
+
+Name: res/drawable-nodpi-v4/zone_power_icon.png
+SHA1-Digest: X7qv0jIiCQkRfl1WDnxNo4Bl+wg=
+
+Name: res/drawable-nodpi-v4/sync0033.png
+SHA1-Digest: 6/ZWgDVAGn21muaiEWNpzic1tj8=
+
+Name: assets/renderthemes/symbols/telephone.svg
+SHA1-Digest: t+AubPQOHl9HNh1vffBlnu3x4k4=
+
+Name: res/drawable-nodpi-v4/nuoli_down.png
+SHA1-Digest: tIi7S6k4hIqc+EMSwJLZMSHB69Y=
+
+Name: res/drawable-nodpi-v4/bike_mtb.png
+SHA1-Digest: ScOkPCGMtx/CCGbP8DHz5CiMI00=
+
+Name: res/drawable-nodpi-v4/numpad_down_09.png
+SHA1-Digest: cuxD4ihbyDP3RDS/GlX2/6S9oXc=
+
+Name: assets/renderthemes/patterns/wood-deciduous.png
+SHA1-Digest: BW9XTQpFid802UX5L0ikH1lNGvI=
+
+Name: res/drawable-nodpi-v4/numpad_up_05.png
+SHA1-Digest: lFsTYe/mqRFibSecR0Q3oUpO7UQ=
+
+Name: res/drawable-nodpi-v4/polkimet0031.png
+SHA1-Digest: PQgzkJGe5NPH7F0o28JAvAqAnms=
+
+Name: assets/renderthemes/symbols/train_station.svg
+SHA1-Digest: tmZfoWJOg3bmRHA1h7zQZY0M8ik=
+
+Name: res/drawable-nodpi-v4/power_zone3_bg_1_4_lock.png
+SHA1-Digest: ovUxuTG78VLvca3pQ6uZSVL/hZs=
+
+Name: res/drawable/zonebar_2_drawable.xml
+SHA1-Digest: Y6/9cP6Kvn1e5lblcE9negOaE+8=
+
+Name: res/drawable-nodpi-v4/sync0031.png
+SHA1-Digest: OERuuI426V1ugNDwvgkTtpZIaqk=
+
+Name: assets/renderthemes/symbols/hotel.svg
+SHA1-Digest: hlQ7kn9YzDJ/vroi7N1bObXTJ74=
+
+Name: osmarender/symbols/cinema.svg
+SHA1-Digest: U3QlKiYkbFfQvRBE+x1aWh3xPmU=
+
+Name: res/layout/activity_exercise_content.xml
+SHA1-Digest: EsDoMOVsA0tPrX5zCtSGvGEbgvw=
+
+Name: res/drawable-nodpi-v4/zone_hr_bg_5.png
+SHA1-Digest: TcZd/TvK1UzU80ZwjdAkfiMboCQ=
+
+Name: osmarender/symbols/gondola.svg
+SHA1-Digest: GCHFwTjEUjKDNpCZ/gq+Y+kBeko=
+
+Name: res/drawable-nodpi-v4/sync0015.png
+SHA1-Digest: X+ERcyFnMZt3tKGMRLtDU0rPnzw=
+
+Name: osmarender/patterns/wood-mixed.png
+SHA1-Digest: 6Kpu+3N6/NsBZ/Zx3jbZj66e6cc=
+
+Name: res/drawable-nodpi-v4/hr_zone4_bg_1_4_lock.png
+SHA1-Digest: 1GYGUwRojCpPKFEiC87F3Pmpejs=
+
+Name: osmarender/symbols/mosque.svg
+SHA1-Digest: B4k78mQ83Kf65lenWpe87WasRjU=
+
+Name: res/color/date_text_color_selector.xml
+SHA1-Digest: aplDmilCSwknUIyQRJj2hw8+wqk=
+
+Name: res/drawable-nodpi-v4/bg.png
+SHA1-Digest: iLsUhO4VlGGjigYWYAK4I9TD/Qw=
+
+Name: res/drawable-nodpi-v4/back_btn30027.png
+SHA1-Digest: NR0ARPh+xOshjwLUuTFRYdHXj50=
+
+Name: res/drawable-nodpi-v4/list_item_56px_link.png
+SHA1-Digest: noVpSDLJbTVTmuZ0IayjsMfED4Q=
+
+Name: res/drawable/numpad_button10.xml
+SHA1-Digest: Kde+me4czXA0ZmsklEGbVJTZ66E=
+
+Name: res/drawable-nodpi-v4/cadence_center.png
+SHA1-Digest: oqRLl+TOWKmZEecOoteZ72v89CA=
+
+Name: res/drawable/indicator_dot_connecting.xml
+SHA1-Digest: HmpNc4z59Z1Y7oknou7y4gkW/vg=
+
+Name: res/drawable/speed_background.xml
+SHA1-Digest: TxONurkd2UxzDXOIlRQmtwui9Rw=
+
+Name: assets/renderthemes/symbols/railway-crossing.svg
+SHA1-Digest: mTPq9pkRd/MABiHosEs+BRF/0pk=
+
+Name: res/drawable-nodpi-v4/hr_zone2_bg_1_2_lock.png
+SHA1-Digest: YLsWMnn0pQ4o5RnTs/FMwQGRNGo=
+
+Name: assets/renderthemes/symbols/train_station2.svg
+SHA1-Digest: Hi4rghO+YzVxV21NDtbk1ediwuA=
+
+Name: res/drawable-nodpi-v4/polkimet0063.png
+SHA1-Digest: 21EA72IwstNuqy3kCa5vYNqRtCY=
+
+Name: res/drawable-nodpi-v4/dialog_center.png
+SHA1-Digest: mkORmWr9vq2/hxup1fcqsC2AxJU=
+
+Name: res/drawable-nodpi-v4/zone_hr_bg_3.png
+SHA1-Digest: bpMH+29V/aFbzRKj19mdnZ1VCh8=
+
+Name: res/drawable-nodpi-v4/back_btn30007.png
+SHA1-Digest: VCKcdkHhXQ+pyZsQbVH4naL7GCc=
+
+Name: res/drawable-nodpi-v4/graf_slider_blinking_rate_fast.png
+SHA1-Digest: njLbwOCH2ifx7aTlgcXyutWuERg=
+
+Name: res/drawable-nodpi-v4/sync0044.png
+SHA1-Digest: 6p3O2ps6EwNKb+CT4GsYohpMSHQ=
+
+Name: res/drawable-nodpi-v4/exe_1_4_nuoli.png
+SHA1-Digest: WQlZp/j+GteSC/z7wNgorWR9/sI=
+
+Name: assets/renderthemes/symbols/playground.svg
+SHA1-Digest: Wr51O9EwoXJFF4epNAZC1PSoKQk=
+
+Name: res/drawable-nodpi-v4/hr_zone_widget_slider_arrow.png
+SHA1-Digest: eo+YKIKB0uwTlcEjfKxqLHHSAYk=
+
+Name: res/drawable/zoom_minus_selector.xml
+SHA1-Digest: ItwxI/i8Ud8XOMA2WLZQEdz+kbo=
+
+Name: res/drawable-nodpi-v4/numpad_down_11.png
+SHA1-Digest: eWDXTlsfA9NPqYikj2Lg5rlB/9w=
+
+Name: osmarender/symbols/pharmacy.svg
+SHA1-Digest: RWE6esyikfeIM48o9kEI3QRxwwE=
+
+Name: res/drawable-nodpi-v4/power_zone2_bg_1_2.png
+SHA1-Digest: jTB9AX/AjA5LZXW0f2Nm+y4yAU8=
+
+Name: res/drawable-nodpi-v4/battery_orange.png
+SHA1-Digest: xWdUoDMdCrmVulID4JrXQZ1A7O8=
+
+Name: res/drawable-nodpi-v4/sync0004.png
+SHA1-Digest: qJtblZdawYbH0ZhQKqWOKFxFTx8=
+
+Name: res/drawable-nodpi-v4/history_total_enabled.png
+SHA1-Digest: wTgpQtMHHEQHIl9+2seGo8C6j7s=
+
+Name: res/drawable-nodpi-v4/sync0059.png
+SHA1-Digest: M2PQHfNe+kgw0ta5h6FOHTqByMI=
+
+Name: res/drawable-nodpi-v4/sensor_hr.png
+SHA1-Digest: 71VLZ23UYyhHiYl03/vJzElyhXM=
+
+Name: osmarender/symbols/firebrigade.svg
+SHA1-Digest: 02HmM4r5O+iDm2SL5lkM7pWTxAY=
+
+Name: res/drawable-nodpi-v4/polkimet0056.png
+SHA1-Digest: jnVhY3Ey4WZE7pXMz5W8V9wUXzY=
+
+Name: res/raw/exercise_notification.wav
+SHA1-Digest: dyHPyufDR1/XqDpa0KThAlaylMY=
+
+Name: res/drawable-nodpi-v4/radiobutton_selected.png
+SHA1-Digest: ygAGhZksdaQFIA6FYPX1koLZCaw=
+
+Name: assets/renderthemes/symbols/theatre.svg
+SHA1-Digest: 16djK++IJ/AbR6LUagzc5iqGMEY=
+
+Name: res/drawable/power_calibrating_animation.xml
+SHA1-Digest: RomogC0TD29mUWZZJColiQYfGlk=
+
+Name: res/drawable-nodpi-v4/speed_30x30.png
+SHA1-Digest: uKzAcylpXy4/Ynt85jCAtKu5G9g=
+
+Name: res/drawable-nodpi-v4/polkimet0021.png
+SHA1-Digest: ytsnUqMQw7vhWRNSQC95GG2Nxh0=
+
+Name: res/drawable-nodpi-v4/sync0045.png
+SHA1-Digest: 6aGSpdzBOC3p3h83aWC77LspMJM=
+
+Name: res/drawable-nodpi-v4/sync0025.png
+SHA1-Digest: GbARNYbpzfZCWUeWDhw4Nez1+/c=
+
+Name: res/drawable-nodpi-v4/ic_selectionbutton_disabled.png
+SHA1-Digest: Ce+h0SzDYsahGLzKtfLG/GgSBg4=
+
+Name: res/drawable-nodpi-v4/exe_1_1_nuoli.png
+SHA1-Digest: fMPs8Gd7A2pI93s5xm/+2Yoayko=
+
+Name: res/drawable-nodpi-v4/harj_1_8_nuoli.png
+SHA1-Digest: g3VdoiVzbABpS45TMbRs3lBghik=
+
+Name: res/drawable-nodpi-v4/numpad_down_07.png
+SHA1-Digest: hprTqAOtTFREsus8lM/FE9WE1vA=
+
+Name: res/drawable-nodpi-v4/polkimet0059.png
+SHA1-Digest: xy0E5gBDgb85EY+54hRu3Ol7kEA=
+
+Name: res/drawable-nodpi-v4/sync0053.png
+SHA1-Digest: yWZO5bvFnQnOtYB32B7ZelJBMmE=
+
+Name: res/drawable-nodpi-v4/sydan.png
+SHA1-Digest: nA1Dim2SYnq7Fcr2U4W4Dt3YUp0=
+
+Name: res/drawable-nodpi-v4/graf_list_half_240x126_link.png
+SHA1-Digest: 7D3Z43Eq5IAmHTjmsfKcF6wf8oo=
+
+Name: res/drawable-nodpi-v4/exe_1_8_nuoli.png
+SHA1-Digest: gm2+tUvsYSg0HD3NOrpRkmtwkuU=
+
+Name: res/drawable-nodpi-v4/list_item_56px.png
+SHA1-Digest: xp6rMGhQdRLV164ukLa+Y4hui9k=
+
+Name: res/drawable-nodpi-v4/profile_selected.png
+SHA1-Digest: TXHgdaMloXqzpewHJaur/OE69Mo=
+
+Name: res/drawable-nodpi-v4/numpad_up_01.png
+SHA1-Digest: zlEH5MRTrsdJ9QY+/rsocgy/TuU=
+
+Name: osmarender/patterns/nature-reserve.png
+SHA1-Digest: cfUB1ZRxNT6o5TEqCRakHD+Pumc=
+
+Name: assets/renderthemes/symbols/bus_sta.svg
+SHA1-Digest: gEwS8of0EC9VFT+CdWC1dTLezB8=
+
+Name: osmarender/symbols/florist.svg
+SHA1-Digest: hBlg8XPRx72he3/k3rMUpirjJ0A=
+
+Name: res/animator/slide_out_left.xml
+SHA1-Digest: zcy6W2TQ1q+gak7EWo1D6dDXHB4=
+
+Name: res/drawable-nodpi-v4/polkimet0024.png
+SHA1-Digest: F7MDEZO+WBjBU3dZEuW6vOFbwoo=
+
+Name: res/drawable/list_item_bg_link.xml
+SHA1-Digest: JZVke9UOyVVFf+kCrpaahQh+j/g=
+
+Name: res/drawable-nodpi-v4/ic_light_indicators_on_green3.png
+SHA1-Digest: 9KbG94N6BkOHBaudKbkOYL64+XI=
+
+Name: res/drawable/numpad_button8.xml
+SHA1-Digest: Ndtvo9Q2+ilAAdSZarm/FCo7xc4=
+
+Name: res/drawable-nodpi-v4/zone_bg_1.png
+SHA1-Digest: kRnttGvTiicmmY9aIQAQ7/DNF7E=
+
+Name: assets/renderthemes/patterns/wood-mixed.png
+SHA1-Digest: 6Kpu+3N6/NsBZ/Zx3jbZj66e6cc=
+
+Name: res/drawable-nodpi-v4/hr_zone2_bg_1_4.png
+SHA1-Digest: lnKY/8z+zEl7CrGqUTakHrexlRs=
+
+Name: res/drawable-nodpi-v4/brake_line.png
+SHA1-Digest: 59ctEoDA7a9lNS12AvDmHvKgMmI=
+
+Name: res/drawable-nodpi-v4/bike_indoor.png
+SHA1-Digest: m0QMPmy+5Z2Cu5KOsJG8NKYLEsQ=
+
+Name: res/drawable-nodpi-v4/polkimet0062.png
+SHA1-Digest: Sf43Mj6EbcWAbK4DITsDv/LBJDo=
+
+Name: res/drawable-nodpi-v4/zone_bg_2.png
+SHA1-Digest: 1e7vh9enwXboGMQ0IFofypyHGdw=
+
+Name: res/drawable-nodpi-v4/slider_bg.png
+SHA1-Digest: 79Fqx4RL2qaGBE3/0OvvkrIo6EY=
+
+Name: osmarender/symbols/train_station2.svg
+SHA1-Digest: 4qhqVz3jcnfOCqXH/FY5sL1vDtc=
+
+Name: res/drawable-nodpi-v4/cadence_down.png
+SHA1-Digest: tpi2DL6Apvvjk4vkg4Fy4TN4s2Q=
+
+Name: osmarender/symbols/petrolStation.svg
+SHA1-Digest: MnXdr7qmVMdMiyUYToOSYBDBg64=
+
+Name: assets/renderthemes/symbols/alpine_hut.svg
+SHA1-Digest: HVDbYkzoEUQ40dpKsWibCWmT9nw=
+
+Name: res/drawable-nodpi-v4/maps_north_up.png
+SHA1-Digest: BTjyD3Vgfffrvp6n32R+PoADF/w=
+
+Name: res/animator/fade_out.xml
+SHA1-Digest: MRJoAelVwiNPwKit9fjDtCu/Zd0=
+
+Name: res/drawable-nodpi-v4/back_btn30025.png
+SHA1-Digest: Rc0hC9VDluG6l9VYCpDKW612MlY=
+
+Name: osmarender/symbols/drinking_water.svg
+SHA1-Digest: jc2pbR9yIxHH18j8RC0/ADQY2hE=
+
+Name: res/layout/activity_user_info_content.xml
+SHA1-Digest: jPQmdAu28nvhYnzE6HrjfACyGxk=
+
+Name: res/drawable/numpad_button6.xml
+SHA1-Digest: cELG8bsf+NA89bYzR390XdwuQMU=
+
+Name: assets/renderthemes/symbols/cinema.svg
+SHA1-Digest: qGU02ZVPTGiXBvel9IOCBPdmJbY=
+
+Name: res/drawable-nodpi-v4/power_zone4_bg_1_2_lock.png
+SHA1-Digest: Zw9mzb23fKQD0S0dQJMdy5UuqO4=
+
+Name: res/drawable-nodpi-v4/sync0013.png
+SHA1-Digest: 02Coat3IgDz3VcL03Y7+sk04Y+c=
+
+Name: res/drawable/front_led_widget_light.xml
+SHA1-Digest: YRVL22UOvDgyg+w+cEsbynoucQw=
+
+Name: res/drawable-nodpi-v4/polkimet0020.png
+SHA1-Digest: xRi+5sraim4qTqeHGXL6vRNNo2g=
+
+Name: res/drawable-nodpi-v4/history_list_item_hover.png
+SHA1-Digest: PCAPVSRCIYjhmhL2irLevyrJSYM=
+
+Name: res/drawable-nodpi-v4/power_zone5_bg_1_4.png
+SHA1-Digest: WPlCykHgiOi0A1gs1liUF3DjeHU=
+
+Name: res/drawable-nodpi-v4/graf_widget_half_240x140.png
+SHA1-Digest: bH5H/d52izXZ4pyM//4LZRE/BT0=
+
+Name: res/color/main_widget_middle_title_text_color.xml
+SHA1-Digest: 2WYMjlohiNI5d/E6icgotMJduxo=
+
+Name: res/drawable-nodpi-v4/sync0018.png
+SHA1-Digest: Ux5ZgsurVmHisoWQjxlTChnRs6w=
+
+Name: res/drawable-nodpi-v4/polkimet0068.png
+SHA1-Digest: vjlSt6WDXpWjAPeP+ol5DK9roL4=
+
+Name: res/drawable-nodpi-v4/maps_direction_up.png
+SHA1-Digest: ZgZb9TZiRI1vIBuroFQiW8++MhI=
+
+Name: res/drawable/numpad_button4.xml
+SHA1-Digest: AxUCAhp3R2u1ANo4fPZqevcOxXw=
+
+Name: res/drawable-nodpi-v4/numpad_down_12_plus_minus.png
+SHA1-Digest: YoBybhk0Wax1A98K/45wJ0sNO6w=
+
+Name: res/drawable-nodpi-v4/sync0012.png
+SHA1-Digest: dXb/MFSydBbWEuud+dbMR79GpJY=
+
+Name: res/drawable-nodpi-v4/polkimet0018.png
+SHA1-Digest: fB6rE/PM/5jVLcu3vkJrZ63MHvg=
+
+Name: assets/renderthemes/symbols/tennis.svg
+SHA1-Digest: gpjjbxf0wGocRg1J3GDtc8FeJ1E=
+
+Name: res/drawable-nodpi-v4/polkimet0014.png
+SHA1-Digest: sbKaWy3Ymhcpb8qfbgwJHb41+6E=
+
+Name: res/drawable-nodpi-v4/hr_zone5_lock_alert.png
+SHA1-Digest: 2huBZ/WUWYNau6WhqK5uZolAtvQ=
+
+Name: res/drawable-nodpi-v4/history_total_disabled.png
+SHA1-Digest: LTnJydZeHikSm++DAE4VcosZoWA=
+
+Name: osmarender/symbols/airport.svg
+SHA1-Digest: R+AfJKMMMOz8HSyfAdChz5N2IiM=
+
+Name: res/drawable-nodpi-v4/exe_1_2.png
+SHA1-Digest: siQ22DmP+2rNyGop7RpdMtsDVxA=
+
+Name: res/drawable/seekbar_progress.xml
+SHA1-Digest: 2kYi34sc8LgIUfaN8NTwiau7fdo=
+
+Name: res/drawable-nodpi-v4/polkimet0036.png
+SHA1-Digest: 4CcbIMd87pZkOrY+HBa8s3CadKY=
+
+Name: res/drawable/selector_selection_item.xml
+SHA1-Digest: QeRepO0/S3cbqQ1WFxCd31m2SBU=
+
+Name: res/drawable/hr_line_full_locked_bg.xml
+SHA1-Digest: ouxcP/aF4i8XPe7HvN990vALYD0=
+
+Name: res/drawable-nodpi-v4/maps_23.png
+SHA1-Digest: QdlmNtL2axdPY29KPH5pQkCr+1Y=
+
+Name: assets/world.map
+SHA1-Digest: E3ZCOZg9Crd9grj71cTtzSQN1dM=
+
+Name: res/drawable-nodpi-v4/hr_zone5_bg_1_2_lock.png
+SHA1-Digest: q+DOK3bJQh+P79mJfyyJqK0mOyo=
+
+Name: osmarender/symbols/library.svg
+SHA1-Digest: BI3VnAfx4o4fXA1SHXlN5Rnscy8=
+
+Name: res/drawable-nodpi-v4/hr_20x20_black.png
+SHA1-Digest: nzGweQImegeOoPw1+X8DSWFh648=
+
+Name: osmarender/symbols/hospital.svg
+SHA1-Digest: MiRo2opxe912l3WsHkqA1H8YYsg=
+
+Name: res/drawable/exercise_widget_bg_selector.xml
+SHA1-Digest: 7i/NYA4+udhSSR7lNmDCngXaEVw=
+
+Name: res/drawable/mainwidget_bg_selector.xml
+SHA1-Digest: CgYuDv7W74/asXnHun1pr3iLMwI=
+
+Name: res/drawable-nodpi-v4/polkimet0065.png
+SHA1-Digest: Eqm/ZTnVTeEMEigfJUJPAY5uP3k=
+
+Name: res/layout/training_widget_selection_item.xml
+SHA1-Digest: KqFV2RtrmGRZatNlXsPUdjqVD/E=
+
+Name: res/drawable/session_list_item_bg_selector.xml
+SHA1-Digest: Bt1Ye/pur5Ls+oLkAftZSNrrC7g=
+
+Name: res/drawable-nodpi-v4/gps_30x30_2.png
+SHA1-Digest: VNr7W70mf5w/xADezDAThFK63k4=
+
+Name: osmarender/symbols/postbox.svg
+SHA1-Digest: V7Wi5lbAvm8QNJQqWFHZeNySL04=
+
+Name: res/drawable-nodpi-v4/sync0016.png
+SHA1-Digest: 29gowIEHeG3jeHyGgcZpWBGuKtw=
+
+Name: assets/renderthemes/patterns/access-destination.png
+SHA1-Digest: ZoIqVOvsvUEmh8/xdiTQpzlZvIM=
+
+Name: res/drawable-nodpi-v4/back_btn30009.png
+SHA1-Digest: qFE9T3CzUAnQOB/goh/N7hExiWc=
+
+Name: res/drawable-nodpi-v4/slider_bg_volume0.png
+SHA1-Digest: PNx63dynEi1I0Uzd0qjCprwYbTU=
+
+Name: res/drawable-nodpi-v4/power_calibrating2.png
+SHA1-Digest: KBXGp5ZKBTQauYOXWLLFZRNOzl0=
+
+Name: res/drawable-nodpi-v4/profile_notselected.png
+SHA1-Digest: JjBXwQtekZwbLlpV/KD1K2A2pJc=
+
+Name: res/drawable-nodpi-v4/graf_slider_volume_bar.png
+SHA1-Digest: P14LJK0Zt0eb8aYt5ktyRb9/400=
+
+Name: assets/renderthemes/symbols/cafe.svg
+SHA1-Digest: jw7WEliOzvKUD5T2ymDpTMxya3A=
+
+Name: res/drawable-nodpi-v4/session_history_1_2_link.png
+SHA1-Digest: d5fyA5L/61TeBpIqkOdd4wVJ+Zs=
+
+Name: res/layout-small-v4/customize_training_views.xml
+SHA1-Digest: pawmCgK6LvSQjQwsu4gcqcLYrn8=
+
+Name: res/drawable-nodpi-v4/battery_red.png
+SHA1-Digest: XUApTGr+/yqjU6xGQn0lEuO17X8=
+
+Name: res/drawable-nodpi-v4/back_btn30015.png
+SHA1-Digest: LA++DTPpc+3b3E7mt/qThkwfibs=
+
+Name: res/drawable/indicator_dot_connected.xml
+SHA1-Digest: OuxAq/fWL8ZZ1ZYc8/aWyN71U0E=
+
+Name: res/drawable-nodpi-v4/power_zone2_bg_1_4_lock.png
+SHA1-Digest: hdYnT9B3amJbE3/6ZR871AEQcfw=
+
+Name: res/drawable-nodpi-v4/dialog_up.png
+SHA1-Digest: TtLaudvFj4JoVfQ30tbTIpE0YBg=
+
+Name: res/drawable-nodpi-v4/pieni_spinneri.png
+SHA1-Digest: xoGObbx6f7T92Z8mDkQtV48lNOs=
+
+Name: res/drawable-nodpi-v4/graf_slider_volume_loud.png
+SHA1-Digest: a45D+vWIEudlFdru5SlvtIl1Rr4=
+
+Name: res/drawable-nodpi-v4/polkimet0058.png
+SHA1-Digest: rakp5DkkTEx5coyNcBEzmKsBUvM=
+
+Name: res/drawable-nodpi-v4/slider_bg_volume3.png
+SHA1-Digest: dgvc0fnsnjVJXn0sA7xfiLPgurk=
+
+Name: res/drawable-nodpi-v4/sync0003.png
+SHA1-Digest: HGeU2pGo93tje6Mq5B19SbCNtRQ=
+
+Name: res/drawable/zoom_plus_selector.xml
+SHA1-Digest: fU5tWGGhGUQRnpB743g3v/fJxIU=
+
+Name: assets/renderthemes/symbols/gondola.svg
+SHA1-Digest: ttHZzmxSd3VL/r+7DzfXsf6n/BM=
+
+Name: assets/renderthemes/symbols/toilets.svg
+SHA1-Digest: 058QiBVRwilhpAvEcNA/6Hd0KkE=
+
+Name: res/drawable-nodpi-v4/polkimet0008.png
+SHA1-Digest: xuXc2EqZgPIIrn4B9hCcuFde/98=
+
+Name: res/drawable-nodpi-v4/sensor_speed.png
+SHA1-Digest: hQ88P01AdlQz+Eh9yjbt8ui705M=
+
+Name: res/layout/activity_front_led_content.xml
+SHA1-Digest: bNz+wni5UOnvjIizm65NdQUs0iw=
+
+Name: res/animator/infobar_fade_in.xml
+SHA1-Digest: wYj+7UekqMDO343ZiytOmM7QcM8=
+
+Name: lib/armeabi/libpolarmathwrapper.so
+SHA1-Digest: B8Jxdku+WhLEqKXaQhYo5UpNWgI=
+
+Name: osmarender/patterns/access-destination.png
+SHA1-Digest: ZoIqVOvsvUEmh8/xdiTQpzlZvIM=
+
+Name: res/drawable-nodpi-v4/sync0021.png
+SHA1-Digest: bhszQk2Hymmrx/Sx0vcl2SUqNq0=
+
+Name: res/drawable/scanning_list_item_bg.xml
+SHA1-Digest: g/boelRLCfKaMbUsBoYaZRr71oE=
+
+Name: res/drawable/backbutton_animation.xml
+SHA1-Digest: iOXQVyNKhLzQE1U+jabsUbmCJwc=
+
+Name: res/drawable-nodpi-v4/sync0009.png
+SHA1-Digest: xelb52Qhg6YrIZBSWfiCREIBX20=
+
+Name: res/drawable-nodpi-v4/back_btn30011.png
+SHA1-Digest: qjv/AZux/8LmqSnRg56W3hSEoTo=
+
+Name: res/drawable/hr_line_half_locked_bg.xml
+SHA1-Digest: OUkKB12tgPdNKVf6uJLEqNXJsWY=
+
+Name: assets/renderthemes/symbols/hostel.svg
+SHA1-Digest: 0nQ9IB1HEM71m2JYCVhYAKZIzkQ=
+
+Name: res/animator/infobar_fade_out.xml
+SHA1-Digest: azSsDoaEqq+fVdNoNWb9Xj9pwDE=
+
+Name: res/drawable-nodpi-v4/cadence_up.png
+SHA1-Digest: IHXaA+iCgR445EQ7tqhsis2FGmk=
+
+Name: assets/renderthemes/symbols/campSite.svg
+SHA1-Digest: mpM+XHBZivdVNYpJ3J+XrzY6s0c=
+
+Name: res/drawable-nodpi-v4/back_btn30018.png
+SHA1-Digest: n7HvdigOVGnNQtesojubdf0Hemg=
+
+Name: res/drawable-nodpi-v4/power_zone1_bg_1_4.png
+SHA1-Digest: AKPtNH1m1LF/bcGsFZQTSiNFF8o=
+
+Name: res/drawable-nodpi-v4/power_zone3_bg_1_4.png
+SHA1-Digest: OgUv/qjxqVWCpAAaOjPQ8K4cpKs=
+
+Name: res/drawable-nodpi-v4/polkimet0045.png
+SHA1-Digest: RbYQ50+k/6OAcphO95EWmF/hifs=
+
+Name: res/drawable-nodpi-v4/gps_20x20_black.png
+SHA1-Digest: 51fSr1nUz/AIjSz301rxUeOJKGU=
+
+Name: res/drawable-nodpi-v4/polkimet0011.png
+SHA1-Digest: gwqBWzEj+ZG+I/o3I4zxRj1cLHU=
+
+Name: res/drawable-nodpi-v4/sync0041.png
+SHA1-Digest: HIQf9Y2KHh/bTYuy/rdrEonpF9c=
+
+Name: res/drawable-nodpi-v4/graf_slider_handle.png
+SHA1-Digest: 1CdeAUba2mkXwPbN6DndI0vNo44=
+
+Name: res/drawable-nodpi-v4/polkimet0052.png
+SHA1-Digest: pBf/9KUCBUt06/Dg1XvF6Zi1OUw=
+
+Name: res/drawable/power_calibrate_pedals_animation.xml
+SHA1-Digest: R/UAACI1wwQbIZJcIteT9d2aIVw=
+
+Name: res/drawable-nodpi-v4/battery_alert_50.png
+SHA1-Digest: FAm0O3zVbOOGcfoqyIEVebbkxqE=
+
+Name: assets/renderthemes/cycle.xml
+SHA1-Digest: qICApll5XmtfT0V4wtCLf62sczg=
+
+Name: res/drawable-nodpi-v4/sync0034.png
+SHA1-Digest: LBNnblbdazsKJQzt8DQooGX+Wto=
+
+Name: res/drawable-nodpi-v4/battery_yellow.png
+SHA1-Digest: TJJQaBGkihUvr3rOT8y88i3Efis=
+
+Name: assets/renderthemes/elevation.xml
+SHA1-Digest: sfd+8ZyME4bMxs09I5aRl3udmJ8=
+
+Name: res/drawable-nodpi-v4/harj_1_1_nuoli.png
+SHA1-Digest: qP2EcDN+qBlOXBCzXvQukYc6kg8=
+
+Name: res/drawable-nodpi-v4/lap_bg_240x40.png
+SHA1-Digest: 58cF+9SXte+J0t4BvUpBSWQYNXw=
+
+Name: res/drawable-nodpi-v4/numpad_up_10.png
+SHA1-Digest: uKF6onzEei17zQ32TcRs5WUrIPg=
+
+Name: res/drawable-nodpi-v4/widget_tilet.png
+SHA1-Digest: kqglegW0FF+z5TCUqMLhvJ+dlX8=
+
+Name: res/drawable-nodpi-v4/hr_zone5_bg_1_4_lock.png
+SHA1-Digest: BQ+kXxc05jmTPnL0SEMtt8zuSlo=
+
+Name: res/drawable-nodpi-v4/pedal_vertical.png
+SHA1-Digest: rpd2zcftRLkVfhTTPZQsOpQEoWw=
+
+Name: res/drawable-nodpi-v4/hr_zone3_bg_1_4_lock.png
+SHA1-Digest: 5rP62mrUHSVF37taP19YzPLv8r8=
+
+Name: COPYING.LESSER
+SHA1-Digest: 9F7hx2VkaBO0QspY3nLiCmSn3bo=
+
+Name: osmarender/patterns/marsh.png
+SHA1-Digest: RolrORKAKv1nxo16Nz71oMfzaHQ=
+
+Name: res/drawable-nodpi-v4/bike_other.png
+SHA1-Digest: FtCkznExmWDs+lanGFSCuJ/CU30=
+
+Name: osmarender/symbols/atm.svg
+SHA1-Digest: 9N6h9mLjCAte3VnF7+Uobbyzd8U=
+
+Name: res/drawable-nodpi-v4/sync0020.png
+SHA1-Digest: Ydi5fN0fhjjAf+M108Leig/fAbk=
+
+Name: osmarender/symbols/toilets.svg
+SHA1-Digest: 4M2S1Ie9ojslmcz+PABDiNsLaIY=
+
+Name: res/layout-small-v4/activity_history_totals.xml
+SHA1-Digest: AOXyX4fVOwPzpy/ghP/2oppPaTE=
+
+Name: res/drawable/zonebar_5_drawable.xml
+SHA1-Digest: 4GAH/8zj1SFKS1pqukTdcKKzguU=
+
+Name: res/drawable-nodpi-v4/back_btn30001.png
+SHA1-Digest: UF6OwGDR5HTsSgInqTUOBCzw+0I=
+
+Name: osmarender/symbols/hostel.svg
+SHA1-Digest: CARHQS+RzqnlbRz/LgvkJ+Sff78=
+
+Name: osmarender/symbols/traffic_signal.svg
+SHA1-Digest: 5R7B0PpAcSm1RD1IuttZFZgI+QE=
+
+Name: res/drawable-nodpi-v4/hr_zone2_bg_1_2.png
+SHA1-Digest: lQYBl92jCt9tH0ohR2BRRzOHqko=
+
+Name: osmarender/symbols/cable_car.svg
+SHA1-Digest: gPFbjiXr4BJo8zXLejFZp7uW7Hg=
+
+Name: assets/renderthemes/osmarender.xml
+SHA1-Digest: nr55JASMFdKmnrxrnk5Gf/GArF0=
+
+Name: assets/renderthemes/symbols/parking.svg
+SHA1-Digest: QlrsF5xXa4BAsYQOXG+GUK/m3Ro=
+
+Name: res/xml/devices.xml
+SHA1-Digest: p9hXCCSvAgGMvXoYsIoEtgdboIU=
+
+Name: res/color/history_list_item_text_colors.xml
+SHA1-Digest: +a6isSPH4KEC21kWueRaVJ86Tt8=
+
+Name: res/drawable-nodpi-v4/hr_zone3_bg_1_2_lock.png
+SHA1-Digest: LRxaE/bH5RgFihEqhl8uVLFT9KM=
+
+Name: res/color/mainwidget_text_color_selector.xml
+SHA1-Digest: /lyDrq4U9PZdvA+GzwGrYBpgG/Q=
+
+Name: osmarender/symbols/vulcan.svg
+SHA1-Digest: yGomFazh4jtoqWfm57Pm6LxajXk=
+
+Name: osmarender/symbols/railway-crossing.svg
+SHA1-Digest: mTPq9pkRd/MABiHosEs+BRF/0pk=
+
+Name: res/drawable-nodpi-v4/battery_alert_10.png
+SHA1-Digest: 0Co8U0Ugjw2zWzefnmW9eVih2ig=
+
+Name: res/drawable-nodpi-v4/battery_plugged.png
+SHA1-Digest: 5vEzr2FNv5vLZA7askrrfZTpBJY=
+
+Name: osmarender/symbols/supermarket.svg
+SHA1-Digest: gwexcbNTeMOevK8sDVtrB/k39i4=
+
+Name: res/layout/scanning_adapter_item.xml
+SHA1-Digest: At9IAYOnjqImaBSeES8V+phYqu8=
+
+Name: res/drawable-nodpi-v4/hr_zone_heart.png
+SHA1-Digest: 6dFjyyEg/tKD1fzGbK2WOMVc9Ps=
+
+Name: resources.arsc
+SHA1-Digest: Ot8064L8NVpLXGxQ/wcIX+RZst0=
+
+Name: assets/renderthemes/symbols/kindergarten.svg
+SHA1-Digest: +5UyurMwtkVYixogW6J/oi9/PtM=
+
+Name: assets/renderthemes/patterns/wood-coniferous.png
+SHA1-Digest: 8JI3NMXxIXGCYCtRvtluSsRhswc=
+
+Name: res/drawable-nodpi-v4/hr_zone4_bg_1_2_lock.png
+SHA1-Digest: iyJVRthGJ3BravRdnZ/jdkx8/I4=
+
+Name: res/drawable-nodpi-v4/polkimet0002.png
+SHA1-Digest: tMULapWy9D9jOSMGcTj75lnwf+I=
+
+Name: res/drawable-nodpi-v4/hr_zone4_bg_1_4.png
+SHA1-Digest: /xZfFZ7WRycm0+hZI6fJsdURi50=
+
+Name: res/drawable-nodpi-v4/session_history_1_8left.png
+SHA1-Digest: DbAyyIqfGtHOWlN6a21t0EON1zw=
+
+Name: res/layout/activity_general_settings.xml
+SHA1-Digest: 0JBkrwSf8gjvX7leD/RPoWbvf7E=
+
+Name: assets/renderthemes/symbols/firebrigade.svg
+SHA1-Digest: b2eTHQTEGEZd/wgVmiSY7ZFwzNs=
+
+Name: assets/renderthemes/symbols/chair_lift_2.svg
+SHA1-Digest: OOzsqRamDnnx2JCEq8w4QxK/AVs=
+
+Name: res/drawable-nodpi-v4/polkimet0060.png
+SHA1-Digest: 4DxIa7qoggbK6CxjtW1pXXvo9bo=
+
+Name: res/drawable-nodpi-v4/route_start.png
+SHA1-Digest: 37Y4PxuS/UjoGchrLeeBuzMFMEY=
+
+Name: res/drawable-nodpi-v4/sync0058.png
+SHA1-Digest: rm9VgWXhvctcEmCNB7og8a2iwTE=
+
+Name: osmarender/symbols/parking.svg
+SHA1-Digest: jo1Q3TLSQoue5iaM0J2TqqzRe9k=
+
+Name: res/drawable-nodpi-v4/graf_bg_popup.9.png
+SHA1-Digest: HjrIVVX7TtOtm1IGiq9bVXvacyc=
+
+Name: res/drawable-nodpi-v4/numpad_down_04.png
+SHA1-Digest: mKTs+OCQgpGxBdWasktbeRF9nDo=
+
+Name: res/drawable-nodpi-v4/sensor_gps.png
+SHA1-Digest: HhCmMPt839+WYX35A88sEeQQPKM=
+
+Name: res/drawable-nodpi-v4/hr_zone1_bg_1_2_lock.png
+SHA1-Digest: 2QhWLZBHR3H7nVdR5SdcClRrwBk=
+
+Name: res/layout-small-v4/activity_backlight.xml
+SHA1-Digest: Xl779jHGQi2AthWDL0hkVGEQAOQ=
+
+Name: res/animator/slide_out_top.xml
+SHA1-Digest: Cy4/repYfKywXYEa1u/XYdwcXp4=
+
+Name: res/drawable-nodpi-v4/zone_bg_4.png
+SHA1-Digest: FCj2q4MkTi/DwlOupF581YPJpZU=
+
+Name: assets/renderthemes/symbols/shelter.svg
+SHA1-Digest: HX9x3k9wmew7fw8zCMOV9UIP/1s=
+
+Name: res/drawable-nodpi-v4/numpad_down_03.png
+SHA1-Digest: f1tdUKX7UO/QS1F8N487Z27BEYo=
+
+Name: res/layout/activity_front_led.xml
+SHA1-Digest: znonhTCJG0VXu6CWI7Vgfknpt50=
+
+Name: assets/renderthemes/symbols/viewpoint.svg
+SHA1-Digest: 1/UUHKs0u+O5dhAE3fp0K7d0aE0=
+
+Name: osmarender/symbols/helipad.svg
+SHA1-Digest: QqH+DmiT4CGUaj/oerX+Vn84JiA=
+
+Name: assets/renderthemes/patterns/access-private.png
+SHA1-Digest: yatYvIQbvPGQIFVO+EM2O0heVXk=
+
+Name: res/drawable-nodpi-v4/power_30x30_2.png
+SHA1-Digest: ITTxrR6QZtqnnLyc8HTddt8g9Uo=
+
+Name: res/drawable/indicator_dot_malfunction.xml
+SHA1-Digest: wi1b6I+YCZwsB6vGRoNL0K75Xcw=
+
+Name: res/drawable-nodpi-v4/polkimet0035.png
+SHA1-Digest: 9xcjOlfF2Z8gtY8b4zy3zlVO4JM=
+
+Name: res/drawable-nodpi-v4/power_zone2_bg_1_2_lock.png
+SHA1-Digest: 8ll0wL28dxioWyjDnNYOqVHYxLA=
+
+Name: res/drawable-nodpi-v4/main_bg_240_222.png
+SHA1-Digest: rsf7cnmnmAxzRDda6CKg9Dj+Eo4=
+
+Name: res/drawable-nodpi-v4/polkimet0029.png
+SHA1-Digest: htQNxL2/ea5HSpPz0wEjaAso0oY=
+
+Name: res/drawable-nodpi-v4/sync0007.png
+SHA1-Digest: zTa4b9tJpQHNvxuJ3ste+SqmnMk=
+
+Name: res/layout/selection_adapter_item.xml
+SHA1-Digest: GKjtHYgMP9H7GWJ4Vkwx+Y4IRgM=
+
+Name: res/drawable-nodpi-v4/dialog_yes_no_button.png
+SHA1-Digest: j0gVFX9oz3i7LneJIfDo56RKyTc=
+
+Name: res/drawable-nodpi-v4/cad_20x20_black.png
+SHA1-Digest: DlWVkMn9C+QxZYFIG3HI76dMSZM=
+
+Name: res/drawable-nodpi-v4/back.png
+SHA1-Digest: HhWloEpkSxwdOqVkosI8XVoI/4k=
+
+Name: assets/renderthemes/symbols/airport.svg
+SHA1-Digest: w/nd9TQvJRa8SiP9QIKrVguiTtY=
+
+Name: res/drawable/power_line_half_locked_bg.xml
+SHA1-Digest: QaiGGWgwy0WCwI1JihH/Ds4hlXU=
+
+Name: res/drawable-nodpi-v4/power_calibrating3.png
+SHA1-Digest: VTSFB06qeIXDChfUwKvdtyVTSpA=
+
+Name: res/drawable-nodpi-v4/pop_up_sidemenu.png
+SHA1-Digest: nBvMUrn/fKFnkqb8DbMbvOBgj+8=
+
+Name: res/drawable-nodpi-v4/slider_bright.png
+SHA1-Digest: fbMS2C7yQOeKwsSuHMOvGxOeftE=
+
+Name: res/layout/four_button_selector.xml
+SHA1-Digest: 62+PB2l8Kbsw12ZgZg2SzQUS7+s=
+
+Name: res/drawable-nodpi-v4/sync0047.png
+SHA1-Digest: Lr+GUlNMeRJAZnLgeTWk8Ql7Fo8=
+
+Name: res/drawable-nodpi-v4/graf_list_240x63_link.png
+SHA1-Digest: M38tApi+zjKW3QiOEMSOMcwlzt0=
+
+Name: assets/renderthemes/symbols/bus.svg
+SHA1-Digest: xYGKNFM7WHbFlGEELTyL3QV+vB4=
+
+Name: res/drawable-nodpi-v4/zone_hr_bg_4.png
+SHA1-Digest: CkfNGXHfxq9gjMhSZobDKRUhHhY=
+
+Name: res/animator/slide_in_right.xml
+SHA1-Digest: CXsx5dDXtJlfd3Z4+HtUCs67XIw=
+
+Name: res/drawable/numpad_button7.xml
+SHA1-Digest: +hMa+rYiwVnP9l+wy/xfLCaMJYQ=
+
+Name: res/drawable-nodpi-v4/list_item_56px_selected.png
+SHA1-Digest: xnOoFvv4lwZq6tGiscy4mQk5DpA=
+
+Name: res/layout-small-v4/activity_customize_sport_profile.xml
+SHA1-Digest: 80iWw/VH5av1vp2dWO4RTdKjE6s=
+
+Name: res/drawable-nodpi-v4/hr_1_1_zonelock_1.png
+SHA1-Digest: VqTs/M4/JHVz8+WhsahWOnjbrGI=
+
+Name: osmarender/symbols/bus.svg
+SHA1-Digest: y20KD8WBCwtwQP8NLM1oXFN4MIg=
+
+Name: osmarender/symbols/university.svg
+SHA1-Digest: +Z3YkaTHK/d1SOq/q4bnatULAP8=
+
+Name: res/drawable/bike_img_selector.xml
+SHA1-Digest: FSJDeBIGUiYCLV1rDetVdlpDhc4=
+
+Name: res/drawable-nodpi-v4/graf_list_240x63.png
+SHA1-Digest: mC2LvzMGHqi5je1TW/inBJcEQHU=
+
+Name: res/drawable-nodpi-v4/ic_light_indicators_on_green2.png
+SHA1-Digest: 7MOeMO3opMwMIV30hjc4AfazQfc=
+
+Name: osmarender/patterns/military.png
+SHA1-Digest: bTLNiZHuAkUGBSXZh/sLbedxOLY=
+
+Name: res/drawable/list_item_bg_no_link.xml
+SHA1-Digest: EeQqUpOoyaXLyWuSqTKHTbDyQP0=
+
+Name: res/drawable-nodpi-v4/sync0026.png
+SHA1-Digest: 4Vkd7SyyPWYLhj6KVg3kE/FpxmM=
+
+Name: res/drawable-nodpi-v4/sensor_cadence.png
+SHA1-Digest: 7rHeEF00sZfyTVDIi8uMPHQZTFk=
+
+Name: res/drawable-nodpi-v4/hr_30x30_2.png
+SHA1-Digest: XbztdRvA9seIqvU2Igt6cZ/rlWU=
+
+Name: res/drawable-nodpi-v4/session_history_1_4.png
+SHA1-Digest: 2VoxDYbC9QH03J4KhKG7vRq0M4Y=
+
+Name: res/drawable-nodpi-v4/sync0029.png
+SHA1-Digest: rtEJv9ZnJpMUB17/EWs9FBBKM9g=
+
+Name: res/drawable-nodpi-v4/power_zone3_bg_1_2.png
+SHA1-Digest: ARd0M8Mv1kdHFGWGGzW73tkTbYM=
+
+Name: res/drawable/numpad_button3.xml
+SHA1-Digest: a9jCEdxB2bzsLLFxeG9q4e8F+Qw=
+
+Name: res/drawable-nodpi-v4/slider_bg_full.png
+SHA1-Digest: B3wH5eER5pOwkm+7dpgpPp+Rsbw=
+
+Name: res/drawable-nodpi-v4/back_btn30014.png
+SHA1-Digest: KcZ9iHCPpDaxtxROnFJ+tjUfRE8=
+
+Name: res/drawable-nodpi-v4/maps_22.png
+SHA1-Digest: YjUsSJy3Ua9kTmndipQdGLEo9ug=
+
+Name: res/layout-small-v4/activity_exercise.xml
+SHA1-Digest: fjhRXAeRJbXRlHPmbJJpAS3Zw6s=
+
+Name: res/drawable-nodpi-v4/polkimet0022.png
+SHA1-Digest: 92A0Ilf2zaZUje4r3Wt6Nu7KfcM=
+
+Name: osmarender/symbols/cave_entrance.svg
+SHA1-Digest: 6ecgkjeufAbXKM6I5kky/XNNOLE=
+
+Name: res/drawable-nodpi-v4/hr_zone4_bg_1_2.png
+SHA1-Digest: bPaXUGNfj/hj7jadla56BQpjulY=
+
+Name: assets/renderthemes/symbols/pub.svg
+SHA1-Digest: gwegceCJNSaju47F7gtycd1c7XI=
+
+Name: res/drawable/sync_icon_animation.xml
+SHA1-Digest: OjxvAUE4lNXhvhtgfFSrLNN1MEQ=
+
+Name: res/drawable/hr_line_quarter_bg.xml
+SHA1-Digest: 7VTFtICXDVzIchqQUaQ+cJaIOVw=
+
+Name: res/drawable-nodpi-v4/hr_1_1_zonelock_5.png
+SHA1-Digest: g2rif4A4b6tJJ+ggGalUBMfP2SM=
+
+Name: res/raw/notification.wav
+SHA1-Digest: W2iUmLhSiwMzPs8B+F7X2qGvVEo=
+
+Name: assets/renderthemes/symbols/bakery.svg
+SHA1-Digest: QbZ+aYvhC4ZJyvH2/Us/a1e6xQ0=
+
+Name: res/drawable-nodpi-v4/continue_stop.png
+SHA1-Digest: rQvBdtPN121K7AEJuHDEldIVzQg=
+
+Name: res/drawable-nodpi-v4/back_btn30004.png
+SHA1-Digest: Zi1AKvaYDOPRGetKdmua08FZ9TI=
+
+Name: res/drawable-nodpi-v4/sync0038.png
+SHA1-Digest: c1UsirBabfjRylhtX7d9IF6bSDo=
+
+Name: res/animator/slide_in_top.xml
+SHA1-Digest: 2JAxjb8yBqocp0NqQFO+v5nrK+Q=
+
+Name: osmarender/patterns/cemetery.png
+SHA1-Digest: KJdBRRneHZCz/UexNOPgdm4KjQY=
+
+Name: res/drawable-nodpi-v4/graf_slider_automaticlight_dark.png
+SHA1-Digest: BelToN+6CqKtVWHbORpbcOtz73w=
+
+Name: osmarender/patterns/access-private.png
+SHA1-Digest: yatYvIQbvPGQIFVO+EM2O0heVXk=
+
+Name: res/drawable-nodpi-v4/numpad_up_11.png
+SHA1-Digest: h8Vut42LiezL5o6k8NKCQsozXKQ=
+
+Name: res/color/list_item_text_colors.xml
+SHA1-Digest: 2VavOuX29I52LFxUWkaX1qqI1Vc=
+
+Name: res/drawable-nodpi-v4/cad_30x30_2.png
+SHA1-Digest: HJUrP1pWs6dZtFg0c2O6hchuExk=
+
+Name: res/drawable-nodpi-v4/sync0023.png
+SHA1-Digest: dkJwHOGrJDjzDzO2t6GlBwWw5i8=
+
+Name: res/drawable-nodpi-v4/back_btn30002.png
+SHA1-Digest: hhja6Cl9kxbEDd01NlYnZ6IkJbg=
+
+Name: res/drawable-nodpi-v4/maps_pointer_shadow.png
+SHA1-Digest: n81PAC6QoauTFyX36mnXaQ77usQ=
+
+Name: res/drawable-nodpi-v4/zone_bg_5.png
+SHA1-Digest: V5sERvBXMkpj2q4z3x3Pxu+vVwU=
+
+Name: res/drawable/numpad_button5.xml
+SHA1-Digest: jGVYhu0fJ88L/atCbq6e902H9aw=
+
+Name: res/drawable-nodpi-v4/hr_zone3_bg_1_2.png
+SHA1-Digest: idS6GS7+JRLpTRrnhPG9I4zexfM=
+
+Name: res/drawable-nodpi-v4/hr_zone5_bg_1_4.png
+SHA1-Digest: PQiFlGBUK/hZ/AnwnnCzWVq/1YI=
+
+Name: res/drawable/power_line_quarter_bg.xml
+SHA1-Digest: L5BwX3dcsdF5x09LIaa0XbPwzIs=
+
+Name: res/drawable/history_list_item_bg.xml
+SHA1-Digest: HdZBRGFfIT2eWPcVtXwP25Ng9V0=
+
+Name: res/drawable-nodpi-v4/power_zone5_bg_1_2_lock.png
+SHA1-Digest: cRAwjkYelfwJvwAdciF4Al/Uk/k=
+
+Name: res/drawable-nodpi-v4/sync0005.png
+SHA1-Digest: WqlJLMwe1sfN8lgn0835Z+pvg3E=
+
+Name: res/drawable-nodpi-v4/sync0032.png
+SHA1-Digest: MRzVhqh2m1c/t6VP5yiACAJPX1Q=
+
+Name: res/drawable-nodpi-v4/polkimet0016.png
+SHA1-Digest: Ywf/0VcL823cVee5NLm+GJJ+epI=
+
+Name: res/layout/enter_pin.xml
+SHA1-Digest: FloSljZNG3rmuffWu8e13lFSBBQ=
+
+Name: res/drawable/sensor_indicator_searching_animation.xml
+SHA1-Digest: gxbjhtPBWEdIBaN0bcXKobEkvj0=
+
+Name: res/drawable-nodpi-v4/maps_pointer.png
+SHA1-Digest: AG50XOMob19UVQjRNWJvrIcBdEs=
+
+Name: res/drawable-nodpi-v4/zone_hr_bg_2.png
+SHA1-Digest: uewMbAOsuLUAjG8cwoEXoPUiMOE=
+
+Name: res/drawable/zonebar_3_drawable.xml
+SHA1-Digest: M4uCe+ULw0abR6AqUJdhRPIX9Go=
+
+Name: res/drawable-nodpi-v4/back_btn30005.png
+SHA1-Digest: c+IG0r/CNWQS1ivdLzBsFYLqy/E=
+
+Name: res/drawable-nodpi-v4/polkimet0019.png
+SHA1-Digest: QSihOKyPnpMJbiy/e9P7WnRXF3s=
+
+Name: osmarender/symbols/bank.svg
+SHA1-Digest: ZUr9yNxktWWRHG1kDi3wKBD2ypw=
+
+Name: res/drawable-nodpi-v4/polkimet0055.png
+SHA1-Digest: +Vu+Vj0oz5rbr3PdaehGhC1G/uU=
+
+Name: renderTheme.xsd
+SHA1-Digest: yKynBsh0BUWE83/d84FU4EOVj+o=
+
+Name: res/color/list_item_top_text_color.xml
+SHA1-Digest: ekdXAFn3qmKv0Q/zidUo/6c2inw=
+
+Name: res/drawable/numpad_button1.xml
+SHA1-Digest: Fs929IkkZ9EcZZUn/XEJeu48ulA=
+
+Name: res/drawable-nodpi-v4/polkimet0040.png
+SHA1-Digest: nsaG4TmEYs6ASRE2RdftYbQu3oU=
+
+Name: res/drawable/zoom_icon_selector.xml
+SHA1-Digest: 4VG3TkTtago6ftVGzGhFQaPjE6s=
+
+Name: res/drawable-nodpi-v4/lap_1_8.png
+SHA1-Digest: t2jRy0DHsrMAZxa0OcEAy5FEBXA=
+
+Name: res/drawable-nodpi-v4/numpad_up_02.png
+SHA1-Digest: vkSfbcQQtgVTBeE00axdQT6KDmY=
+
+Name: osmarender/osmarender.xml
+SHA1-Digest: u3hUybog5cA7DfVSmwfEDe+PVmg=
+
+Name: res/drawable-nodpi-v4/sync0030.png
+SHA1-Digest: mdlTgsJ7FQrL241sAOQpBFEdiIw=
+
+Name: res/drawable-nodpi-v4/hr_zone1_bg_1_4.png
+SHA1-Digest: O66N3B84Vm+4MEv6Nh9q2O4prGM=
+
+Name: res/drawable-nodpi-v4/session_history_1_2.png
+SHA1-Digest: VK54eXFnqht340Jygvshe29zSCE=
+
+Name: res/drawable-nodpi-v4/session_history_1_4link.png
+SHA1-Digest: doUifNq8Tb4b3ieRnqEI3jBBpO4=
+
+Name: res/layout/session_history_lap_item_layout.xml
+SHA1-Digest: JWZqbcdJ/pE+9lG5RVqeSt4ANfk=
+
+Name: res/drawable-nodpi-v4/power_zone5_bg_1_2.png
+SHA1-Digest: wKTrJ8Qy1RTRm28TMxFZF5F8hrE=
+
+Name: res/drawable/volume_slider_bg.xml
+SHA1-Digest: X/xCSZ9ys94nk+4rVsAc9SLRYvA=
+
+Name: res/drawable-nodpi-v4/battery_green.png
+SHA1-Digest: CtB/e8OBCAdoJwG2NFNidypZUqs=
+
+Name: res/drawable-nodpi-v4/harj_1_4_nuoli.png
+SHA1-Digest: ILenp7iIY7jRsQFoWRX7qO65XSo=
+
+Name: res/layout/activity_pair_new_device.xml
+SHA1-Digest: gRxyjgwXqVXHskvI8IAFN2Ly7j8=
+

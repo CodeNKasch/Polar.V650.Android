@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/fi.polar.mclaren">
+    <item android:drawable="@drawable/maps_north_up_centered" app:north_up_centered="true" />
+    <item android:drawable="@drawable/maps_north_up" app:north_up="true" />
+    <item android:drawable="@drawable/maps_direction_up_centered" app:direction_up_centered="true" />
+    <item android:drawable="@drawable/maps_direction_up" app:direction_up="true" />
+</selector>

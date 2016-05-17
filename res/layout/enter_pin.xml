@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ff303030" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/topbar" android:background="@drawable/graf_popup_scroll_focus" android:layout_width="fill_parent" android:layout_height="@dimen/selection_list_element_height">
+        <fi.polar.mclaren.ui.PinItem android:id="@id/pinItem" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <fi.polar.mclaren.ui.Numpad android:id="@id/numpad" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/numpad_margins" android:layout_below="@id/topbar" android:layout_centerHorizontal="true" app:useDot="false" app:useBack="true" />
+</RelativeLayout>
